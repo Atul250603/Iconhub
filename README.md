@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# IconHub
 
-## Getting Started
+> Customize & export icons in seconds. Browse thousands of Lucide icons, customize every detail, and export to your project.
 
-First, run the development server:
+[![Next.js](https://img.shields.io/badge/Next.js-16.0-black)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
+
+## ✨ Features
+
+- 🎨 **1800+ Icons** - Comprehensive Lucide icon collection
+- 🎯 **Real-time Customization** - Colors, size, stroke width, gradients
+- 📦 **Multiple Formats** - Export as SVG, PNG, or copy to clipboard
+- 🔍 **Smart Search** - Fast fuzzy search with Fuse.js
+- 🌓 **Dark Mode** - Beautiful theme support
+- 📱 **Responsive** - Works on all devices
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- Node.js 20.x or higher
+- pnpm (recommended) or npm/yarn
+
+### Installation
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+# Clone repository
+git clone https://github.com/yourusername/icon-hub.git
+cd icon-hub
+
+# Install dependencies
+pnpm install
+
+# Generate icon index
+pnpm generate-overall-index
+
+# Start development server
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📜 Scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Command | Description |
+|---------|-------------|
+| `pnpm dev` | Start development server |
+| `pnpm build` | Build for production |
+| `pnpm start` | Start production server |
+| `pnpm lint` | Run ESLint |
+| `pnpm generate-overall-index` | Generate icon index |
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js 16** - React framework
+- **TypeScript** - Type safety
+- **Tailwind CSS** - Styling
+- **Shadcn** - Accessible components
+- **Motion** - Animations
+- **Lucide Icons** - Icon library
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚢 Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Vercel (Recommended)
 
-## Deploy on Vercel
+1. Push code to GitHub
+2. Import project in [Vercel](https://vercel.com)
+3. Add environment variables (optional):
+   ```env
+   NEXT_PUBLIC_GA_ID=G-XXXXXXXXXX  # For analytics
+   NEXT_PUBLIC_SITE_URL=https://your-domain.com  # For SEO
+   ```
+4. Deploy automatically
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The app can also be deployed on Netlify, Railway, or any platform supporting Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📊 Analytics (Optional)
+
+For production tracking, add Google Analytics 4:
+
+1. Create GA4 property at [analytics.google.com](https://analytics.google.com/)
+2. Get Measurement ID (format: `G-XXXXXXXXXX`)
+3. Add to environment variables in your hosting platform
+4. Analytics will automatically track:
+   - Icon views
+   - Exports (format preferences)
+   - Customization actions
+
+## 📄 License
+
+MIT License - See [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- [Lucide](https://lucide.dev/) for the icon collection
+- [Radix UI](https://www.radix-ui.com/) for components
+- [Next.js](https://nextjs.org/) team
+
+---
+
+Created by [Atul Goyal](https://x.com/AtulGoyal383989)

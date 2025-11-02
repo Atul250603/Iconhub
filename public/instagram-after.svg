@@ -1,0 +1,5 @@
+<svg class="lucide lucide-instagram" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 24 24" fill="none" stroke="url(#iconhub-icon-stroke-gradient)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><defs><linearGradient id="iconhub-icon-stroke-gradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="24" y2="24" gradientTransform="rotate(90, 12, 12)"><stop offset="17%" stop-color="rgba(186,1,190,1)"/><stop offset="40%" stop-color="rgba(255,2,2,1)"/><stop offset="84%" stop-color="rgba(190,171,1,1)"/></linearGradient></defs><rect id="iconhub-bg-rect" x="0" y="0" width="calc(100% - 0px)" height="calc(100% - 0px)" fill="none" rx="0" stroke-width="0" stroke="none"/>
+  <rect width="20" height="20" x="2" y="2" rx="5" ry="5" id="shape-1" class=""/>
+  <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" id="shape-2"/>
+  <line x1="17.5" x2="17.51" y1="6.5" y2="6.5" id="shape-3"/>
+</svg>

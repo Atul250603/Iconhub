@@ -1,0 +1,9347 @@
+[
+  {
+    "name": "a-arrow-down",
+    "path": "lucide/a-arrow-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "a-arrow-up",
+    "path": "lucide/a-arrow-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "a-large-small",
+    "path": "lucide/a-large-small.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "accessibility",
+    "path": "lucide/accessibility.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "activity-square",
+    "path": "lucide/activity-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "activity",
+    "path": "lucide/activity.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "air-vent",
+    "path": "lucide/air-vent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "airplay",
+    "path": "lucide/airplay.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "alarm-check",
+    "path": "lucide/alarm-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "alarm-clock-check",
+    "path": "lucide/alarm-clock-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "alarm-clock-minus",
+    "path": "lucide/alarm-clock-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "alarm-clock-off",
+    "path": "lucide/alarm-clock-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "alarm-clock-plus",
+    "path": "lucide/alarm-clock-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "alarm-clock",
+    "path": "lucide/alarm-clock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "alarm-minus",
+    "path": "lucide/alarm-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "alarm-plus",
+    "path": "lucide/alarm-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "alarm-smoke",
+    "path": "lucide/alarm-smoke.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "album",
+    "path": "lucide/album.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "alert-circle",
+    "path": "lucide/alert-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "alert-octagon",
+    "path": "lucide/alert-octagon.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "alert-triangle",
+    "path": "lucide/alert-triangle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-center-horizontal",
+    "path": "lucide/align-center-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-center-vertical",
+    "path": "lucide/align-center-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-center",
+    "path": "lucide/align-center.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-end-horizontal",
+    "path": "lucide/align-end-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-end-vertical",
+    "path": "lucide/align-end-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-horizontal-distribute-center",
+    "path": "lucide/align-horizontal-distribute-center.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-horizontal-distribute-end",
+    "path": "lucide/align-horizontal-distribute-end.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-horizontal-distribute-start",
+    "path": "lucide/align-horizontal-distribute-start.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-horizontal-justify-center",
+    "path": "lucide/align-horizontal-justify-center.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-horizontal-justify-end",
+    "path": "lucide/align-horizontal-justify-end.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-horizontal-justify-start",
+    "path": "lucide/align-horizontal-justify-start.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-horizontal-space-around",
+    "path": "lucide/align-horizontal-space-around.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-horizontal-space-between",
+    "path": "lucide/align-horizontal-space-between.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-justify",
+    "path": "lucide/align-justify.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-left",
+    "path": "lucide/align-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-right",
+    "path": "lucide/align-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-start-horizontal",
+    "path": "lucide/align-start-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-start-vertical",
+    "path": "lucide/align-start-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-vertical-distribute-center",
+    "path": "lucide/align-vertical-distribute-center.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-vertical-distribute-end",
+    "path": "lucide/align-vertical-distribute-end.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-vertical-distribute-start",
+    "path": "lucide/align-vertical-distribute-start.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-vertical-justify-center",
+    "path": "lucide/align-vertical-justify-center.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-vertical-justify-end",
+    "path": "lucide/align-vertical-justify-end.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-vertical-justify-start",
+    "path": "lucide/align-vertical-justify-start.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-vertical-space-around",
+    "path": "lucide/align-vertical-space-around.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "align-vertical-space-between",
+    "path": "lucide/align-vertical-space-between.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ambulance",
+    "path": "lucide/ambulance.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ampersand",
+    "path": "lucide/ampersand.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ampersands",
+    "path": "lucide/ampersands.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "amphora",
+    "path": "lucide/amphora.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "anchor",
+    "path": "lucide/anchor.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "angry",
+    "path": "lucide/angry.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "annoyed",
+    "path": "lucide/annoyed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "antenna",
+    "path": "lucide/antenna.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "anvil",
+    "path": "lucide/anvil.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "aperture",
+    "path": "lucide/aperture.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "app-window-mac",
+    "path": "lucide/app-window-mac.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "app-window",
+    "path": "lucide/app-window.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "apple",
+    "path": "lucide/apple.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "archive-restore",
+    "path": "lucide/archive-restore.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "archive-x",
+    "path": "lucide/archive-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "archive",
+    "path": "lucide/archive.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "area-chart",
+    "path": "lucide/area-chart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "armchair",
+    "path": "lucide/armchair.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-big-down-dash",
+    "path": "lucide/arrow-big-down-dash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-big-down",
+    "path": "lucide/arrow-big-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-big-left-dash",
+    "path": "lucide/arrow-big-left-dash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-big-left",
+    "path": "lucide/arrow-big-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-big-right-dash",
+    "path": "lucide/arrow-big-right-dash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-big-right",
+    "path": "lucide/arrow-big-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-big-up-dash",
+    "path": "lucide/arrow-big-up-dash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-big-up",
+    "path": "lucide/arrow-big-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-0-1",
+    "path": "lucide/arrow-down-0-1.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-01",
+    "path": "lucide/arrow-down-01.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-1-0",
+    "path": "lucide/arrow-down-1-0.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-10",
+    "path": "lucide/arrow-down-10.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-a-z",
+    "path": "lucide/arrow-down-a-z.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-az",
+    "path": "lucide/arrow-down-az.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-circle",
+    "path": "lucide/arrow-down-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-from-line",
+    "path": "lucide/arrow-down-from-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-left-from-circle",
+    "path": "lucide/arrow-down-left-from-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-left-from-square",
+    "path": "lucide/arrow-down-left-from-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-left-square",
+    "path": "lucide/arrow-down-left-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-left",
+    "path": "lucide/arrow-down-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-narrow-wide",
+    "path": "lucide/arrow-down-narrow-wide.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-right-from-circle",
+    "path": "lucide/arrow-down-right-from-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-right-from-square",
+    "path": "lucide/arrow-down-right-from-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-right-square",
+    "path": "lucide/arrow-down-right-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-right",
+    "path": "lucide/arrow-down-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-square",
+    "path": "lucide/arrow-down-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-to-dot",
+    "path": "lucide/arrow-down-to-dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-to-line",
+    "path": "lucide/arrow-down-to-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-up",
+    "path": "lucide/arrow-down-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-wide-narrow",
+    "path": "lucide/arrow-down-wide-narrow.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-z-a",
+    "path": "lucide/arrow-down-z-a.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down-za",
+    "path": "lucide/arrow-down-za.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-down",
+    "path": "lucide/arrow-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-left-circle",
+    "path": "lucide/arrow-left-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-left-from-line",
+    "path": "lucide/arrow-left-from-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-left-right",
+    "path": "lucide/arrow-left-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-left-square",
+    "path": "lucide/arrow-left-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-left-to-line",
+    "path": "lucide/arrow-left-to-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-left",
+    "path": "lucide/arrow-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-right-circle",
+    "path": "lucide/arrow-right-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-right-from-line",
+    "path": "lucide/arrow-right-from-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-right-left",
+    "path": "lucide/arrow-right-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-right-square",
+    "path": "lucide/arrow-right-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-right-to-line",
+    "path": "lucide/arrow-right-to-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-right",
+    "path": "lucide/arrow-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-0-1",
+    "path": "lucide/arrow-up-0-1.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-01",
+    "path": "lucide/arrow-up-01.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-1-0",
+    "path": "lucide/arrow-up-1-0.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-10",
+    "path": "lucide/arrow-up-10.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-a-z",
+    "path": "lucide/arrow-up-a-z.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-az",
+    "path": "lucide/arrow-up-az.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-circle",
+    "path": "lucide/arrow-up-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-down",
+    "path": "lucide/arrow-up-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-from-dot",
+    "path": "lucide/arrow-up-from-dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-from-line",
+    "path": "lucide/arrow-up-from-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-left-from-circle",
+    "path": "lucide/arrow-up-left-from-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-left-from-square",
+    "path": "lucide/arrow-up-left-from-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-left-square",
+    "path": "lucide/arrow-up-left-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-left",
+    "path": "lucide/arrow-up-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-narrow-wide",
+    "path": "lucide/arrow-up-narrow-wide.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-right-from-circle",
+    "path": "lucide/arrow-up-right-from-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-right-from-square",
+    "path": "lucide/arrow-up-right-from-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-right-square",
+    "path": "lucide/arrow-up-right-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-right",
+    "path": "lucide/arrow-up-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-square",
+    "path": "lucide/arrow-up-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-to-line",
+    "path": "lucide/arrow-up-to-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-wide-narrow",
+    "path": "lucide/arrow-up-wide-narrow.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-z-a",
+    "path": "lucide/arrow-up-z-a.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up-za",
+    "path": "lucide/arrow-up-za.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrow-up",
+    "path": "lucide/arrow-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "arrows-up-from-line",
+    "path": "lucide/arrows-up-from-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "asterisk-square",
+    "path": "lucide/asterisk-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "asterisk",
+    "path": "lucide/asterisk.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "at-sign",
+    "path": "lucide/at-sign.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "atom",
+    "path": "lucide/atom.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "audio-lines",
+    "path": "lucide/audio-lines.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "audio-waveform",
+    "path": "lucide/audio-waveform.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "award",
+    "path": "lucide/award.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "axe",
+    "path": "lucide/axe.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "axis-3-d",
+    "path": "lucide/axis-3-d.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "axis-3d",
+    "path": "lucide/axis-3d.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "baby",
+    "path": "lucide/baby.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "backpack",
+    "path": "lucide/backpack.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-alert",
+    "path": "lucide/badge-alert.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-cent",
+    "path": "lucide/badge-cent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-check",
+    "path": "lucide/badge-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-dollar-sign",
+    "path": "lucide/badge-dollar-sign.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-euro",
+    "path": "lucide/badge-euro.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-help",
+    "path": "lucide/badge-help.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-indian-rupee",
+    "path": "lucide/badge-indian-rupee.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-info",
+    "path": "lucide/badge-info.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-japanese-yen",
+    "path": "lucide/badge-japanese-yen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-minus",
+    "path": "lucide/badge-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-percent",
+    "path": "lucide/badge-percent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-plus",
+    "path": "lucide/badge-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-pound-sterling",
+    "path": "lucide/badge-pound-sterling.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-question-mark",
+    "path": "lucide/badge-question-mark.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-russian-ruble",
+    "path": "lucide/badge-russian-ruble.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-swiss-franc",
+    "path": "lucide/badge-swiss-franc.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-turkish-lira",
+    "path": "lucide/badge-turkish-lira.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge-x",
+    "path": "lucide/badge-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "badge",
+    "path": "lucide/badge.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "baggage-claim",
+    "path": "lucide/baggage-claim.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ban",
+    "path": "lucide/ban.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "banana",
+    "path": "lucide/banana.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bandage",
+    "path": "lucide/bandage.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "banknote-arrow-down",
+    "path": "lucide/banknote-arrow-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "banknote-arrow-up",
+    "path": "lucide/banknote-arrow-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "banknote-x",
+    "path": "lucide/banknote-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "banknote",
+    "path": "lucide/banknote.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bar-chart-2",
+    "path": "lucide/bar-chart-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bar-chart-3",
+    "path": "lucide/bar-chart-3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bar-chart-4",
+    "path": "lucide/bar-chart-4.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bar-chart-big",
+    "path": "lucide/bar-chart-big.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bar-chart-horizontal-big",
+    "path": "lucide/bar-chart-horizontal-big.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bar-chart-horizontal",
+    "path": "lucide/bar-chart-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bar-chart",
+    "path": "lucide/bar-chart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "barcode",
+    "path": "lucide/barcode.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "barrel",
+    "path": "lucide/barrel.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "baseline",
+    "path": "lucide/baseline.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bath",
+    "path": "lucide/bath.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "battery-charging",
+    "path": "lucide/battery-charging.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "battery-full",
+    "path": "lucide/battery-full.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "battery-low",
+    "path": "lucide/battery-low.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "battery-medium",
+    "path": "lucide/battery-medium.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "battery-plus",
+    "path": "lucide/battery-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "battery-warning",
+    "path": "lucide/battery-warning.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "battery",
+    "path": "lucide/battery.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "beaker",
+    "path": "lucide/beaker.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bean-off",
+    "path": "lucide/bean-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bean",
+    "path": "lucide/bean.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bed-double",
+    "path": "lucide/bed-double.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bed-single",
+    "path": "lucide/bed-single.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bed",
+    "path": "lucide/bed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "beef",
+    "path": "lucide/beef.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "beer-off",
+    "path": "lucide/beer-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "beer",
+    "path": "lucide/beer.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bell-dot",
+    "path": "lucide/bell-dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bell-electric",
+    "path": "lucide/bell-electric.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bell-minus",
+    "path": "lucide/bell-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bell-off",
+    "path": "lucide/bell-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bell-plus",
+    "path": "lucide/bell-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bell-ring",
+    "path": "lucide/bell-ring.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bell",
+    "path": "lucide/bell.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "between-horizonal-end",
+    "path": "lucide/between-horizonal-end.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "between-horizonal-start",
+    "path": "lucide/between-horizonal-start.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "between-horizontal-end",
+    "path": "lucide/between-horizontal-end.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "between-horizontal-start",
+    "path": "lucide/between-horizontal-start.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "between-vertical-end",
+    "path": "lucide/between-vertical-end.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "between-vertical-start",
+    "path": "lucide/between-vertical-start.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "biceps-flexed",
+    "path": "lucide/biceps-flexed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bike",
+    "path": "lucide/bike.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "binary",
+    "path": "lucide/binary.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "binoculars",
+    "path": "lucide/binoculars.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "biohazard",
+    "path": "lucide/biohazard.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bird",
+    "path": "lucide/bird.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "birdhouse",
+    "path": "lucide/birdhouse.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bitcoin",
+    "path": "lucide/bitcoin.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "blend",
+    "path": "lucide/blend.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "blinds",
+    "path": "lucide/blinds.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "blocks",
+    "path": "lucide/blocks.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bluetooth-connected",
+    "path": "lucide/bluetooth-connected.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bluetooth-off",
+    "path": "lucide/bluetooth-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bluetooth-searching",
+    "path": "lucide/bluetooth-searching.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bluetooth",
+    "path": "lucide/bluetooth.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bold",
+    "path": "lucide/bold.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bolt",
+    "path": "lucide/bolt.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bomb",
+    "path": "lucide/bomb.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bone",
+    "path": "lucide/bone.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-a",
+    "path": "lucide/book-a.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-alert",
+    "path": "lucide/book-alert.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-audio",
+    "path": "lucide/book-audio.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-check",
+    "path": "lucide/book-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-copy",
+    "path": "lucide/book-copy.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-dashed",
+    "path": "lucide/book-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-down",
+    "path": "lucide/book-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-headphones",
+    "path": "lucide/book-headphones.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-heart",
+    "path": "lucide/book-heart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-image",
+    "path": "lucide/book-image.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-key",
+    "path": "lucide/book-key.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-lock",
+    "path": "lucide/book-lock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-marked",
+    "path": "lucide/book-marked.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-minus",
+    "path": "lucide/book-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-open-check",
+    "path": "lucide/book-open-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-open-text",
+    "path": "lucide/book-open-text.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-open",
+    "path": "lucide/book-open.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-plus",
+    "path": "lucide/book-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-template",
+    "path": "lucide/book-template.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-text",
+    "path": "lucide/book-text.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-type",
+    "path": "lucide/book-type.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-up-2",
+    "path": "lucide/book-up-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-up",
+    "path": "lucide/book-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-user",
+    "path": "lucide/book-user.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book-x",
+    "path": "lucide/book-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "book",
+    "path": "lucide/book.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bookmark-check",
+    "path": "lucide/bookmark-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bookmark-minus",
+    "path": "lucide/bookmark-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bookmark-plus",
+    "path": "lucide/bookmark-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bookmark-x",
+    "path": "lucide/bookmark-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bookmark",
+    "path": "lucide/bookmark.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "boom-box",
+    "path": "lucide/boom-box.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bot-message-square",
+    "path": "lucide/bot-message-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bot-off",
+    "path": "lucide/bot-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bot",
+    "path": "lucide/bot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bottle-wine",
+    "path": "lucide/bottle-wine.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bow-arrow",
+    "path": "lucide/bow-arrow.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "box-select",
+    "path": "lucide/box-select.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "box",
+    "path": "lucide/box.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "boxes",
+    "path": "lucide/boxes.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "braces",
+    "path": "lucide/braces.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "brackets",
+    "path": "lucide/brackets.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "brain-circuit",
+    "path": "lucide/brain-circuit.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "brain-cog",
+    "path": "lucide/brain-cog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "brain",
+    "path": "lucide/brain.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "brick-wall-fire",
+    "path": "lucide/brick-wall-fire.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "brick-wall-shield",
+    "path": "lucide/brick-wall-shield.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "brick-wall",
+    "path": "lucide/brick-wall.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "briefcase-business",
+    "path": "lucide/briefcase-business.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "briefcase-conveyor-belt",
+    "path": "lucide/briefcase-conveyor-belt.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "briefcase-medical",
+    "path": "lucide/briefcase-medical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "briefcase",
+    "path": "lucide/briefcase.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bring-to-front",
+    "path": "lucide/bring-to-front.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "brush-cleaning",
+    "path": "lucide/brush-cleaning.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "brush",
+    "path": "lucide/brush.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bubbles",
+    "path": "lucide/bubbles.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bug-off",
+    "path": "lucide/bug-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bug-play",
+    "path": "lucide/bug-play.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bug",
+    "path": "lucide/bug.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "building-2",
+    "path": "lucide/building-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "building",
+    "path": "lucide/building.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bus-front",
+    "path": "lucide/bus-front.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "bus",
+    "path": "lucide/bus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cable-car",
+    "path": "lucide/cable-car.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cable",
+    "path": "lucide/cable.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cake-slice",
+    "path": "lucide/cake-slice.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cake",
+    "path": "lucide/cake.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calculator",
+    "path": "lucide/calculator.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-1",
+    "path": "lucide/calendar-1.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-arrow-down",
+    "path": "lucide/calendar-arrow-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-arrow-up",
+    "path": "lucide/calendar-arrow-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-check-2",
+    "path": "lucide/calendar-check-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-check",
+    "path": "lucide/calendar-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-clock",
+    "path": "lucide/calendar-clock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-cog",
+    "path": "lucide/calendar-cog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-days",
+    "path": "lucide/calendar-days.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-fold",
+    "path": "lucide/calendar-fold.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-heart",
+    "path": "lucide/calendar-heart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-minus-2",
+    "path": "lucide/calendar-minus-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-minus",
+    "path": "lucide/calendar-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-off",
+    "path": "lucide/calendar-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-plus-2",
+    "path": "lucide/calendar-plus-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-plus",
+    "path": "lucide/calendar-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-range",
+    "path": "lucide/calendar-range.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-search",
+    "path": "lucide/calendar-search.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-sync",
+    "path": "lucide/calendar-sync.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-x-2",
+    "path": "lucide/calendar-x-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar-x",
+    "path": "lucide/calendar-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "calendar",
+    "path": "lucide/calendar.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "camera-off",
+    "path": "lucide/camera-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "camera",
+    "path": "lucide/camera.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "candlestick-chart",
+    "path": "lucide/candlestick-chart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "candy-cane",
+    "path": "lucide/candy-cane.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "candy-off",
+    "path": "lucide/candy-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "candy",
+    "path": "lucide/candy.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cannabis",
+    "path": "lucide/cannabis.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "captions-off",
+    "path": "lucide/captions-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "captions",
+    "path": "lucide/captions.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "car-front",
+    "path": "lucide/car-front.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "car-taxi-front",
+    "path": "lucide/car-taxi-front.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "car",
+    "path": "lucide/car.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "caravan",
+    "path": "lucide/caravan.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "card-sim",
+    "path": "lucide/card-sim.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "carrot",
+    "path": "lucide/carrot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "case-lower",
+    "path": "lucide/case-lower.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "case-sensitive",
+    "path": "lucide/case-sensitive.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "case-upper",
+    "path": "lucide/case-upper.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cassette-tape",
+    "path": "lucide/cassette-tape.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cast",
+    "path": "lucide/cast.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "castle",
+    "path": "lucide/castle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cat",
+    "path": "lucide/cat.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cctv",
+    "path": "lucide/cctv.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-area",
+    "path": "lucide/chart-area.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-bar-big",
+    "path": "lucide/chart-bar-big.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-bar-decreasing",
+    "path": "lucide/chart-bar-decreasing.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-bar-increasing",
+    "path": "lucide/chart-bar-increasing.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-bar-stacked",
+    "path": "lucide/chart-bar-stacked.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-bar",
+    "path": "lucide/chart-bar.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-candlestick",
+    "path": "lucide/chart-candlestick.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-column-big",
+    "path": "lucide/chart-column-big.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-column-decreasing",
+    "path": "lucide/chart-column-decreasing.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-column-increasing",
+    "path": "lucide/chart-column-increasing.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-column-stacked",
+    "path": "lucide/chart-column-stacked.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-column",
+    "path": "lucide/chart-column.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-gantt",
+    "path": "lucide/chart-gantt.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-line",
+    "path": "lucide/chart-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-network",
+    "path": "lucide/chart-network.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-no-axes-column-decreasing",
+    "path": "lucide/chart-no-axes-column-decreasing.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-no-axes-column-increasing",
+    "path": "lucide/chart-no-axes-column-increasing.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-no-axes-column",
+    "path": "lucide/chart-no-axes-column.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-no-axes-combined",
+    "path": "lucide/chart-no-axes-combined.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-no-axes-gantt",
+    "path": "lucide/chart-no-axes-gantt.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-pie",
+    "path": "lucide/chart-pie.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-scatter",
+    "path": "lucide/chart-scatter.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chart-spline",
+    "path": "lucide/chart-spline.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "check-check",
+    "path": "lucide/check-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "check-circle-2",
+    "path": "lucide/check-circle-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "check-circle",
+    "path": "lucide/check-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "check-line",
+    "path": "lucide/check-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "check-square-2",
+    "path": "lucide/check-square-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "check-square",
+    "path": "lucide/check-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "check",
+    "path": "lucide/check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chef-hat",
+    "path": "lucide/chef-hat.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cherry",
+    "path": "lucide/cherry.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-down-circle",
+    "path": "lucide/chevron-down-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-down-square",
+    "path": "lucide/chevron-down-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-down",
+    "path": "lucide/chevron-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-first",
+    "path": "lucide/chevron-first.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-last",
+    "path": "lucide/chevron-last.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-left-circle",
+    "path": "lucide/chevron-left-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-left-square",
+    "path": "lucide/chevron-left-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-left",
+    "path": "lucide/chevron-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-right-circle",
+    "path": "lucide/chevron-right-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-right-square",
+    "path": "lucide/chevron-right-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-right",
+    "path": "lucide/chevron-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-up-circle",
+    "path": "lucide/chevron-up-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-up-square",
+    "path": "lucide/chevron-up-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevron-up",
+    "path": "lucide/chevron-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevrons-down-up",
+    "path": "lucide/chevrons-down-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevrons-down",
+    "path": "lucide/chevrons-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevrons-left-right-ellipsis",
+    "path": "lucide/chevrons-left-right-ellipsis.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevrons-left-right",
+    "path": "lucide/chevrons-left-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevrons-left",
+    "path": "lucide/chevrons-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevrons-right-left",
+    "path": "lucide/chevrons-right-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevrons-right",
+    "path": "lucide/chevrons-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevrons-up-down",
+    "path": "lucide/chevrons-up-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chevrons-up",
+    "path": "lucide/chevrons-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chrome",
+    "path": "lucide/chrome.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "chromium",
+    "path": "lucide/chromium.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "church",
+    "path": "lucide/church.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cigarette-off",
+    "path": "lucide/cigarette-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cigarette",
+    "path": "lucide/cigarette.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-alert",
+    "path": "lucide/circle-alert.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-arrow-down",
+    "path": "lucide/circle-arrow-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-arrow-left",
+    "path": "lucide/circle-arrow-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-arrow-out-down-left",
+    "path": "lucide/circle-arrow-out-down-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-arrow-out-down-right",
+    "path": "lucide/circle-arrow-out-down-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-arrow-out-up-left",
+    "path": "lucide/circle-arrow-out-up-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-arrow-out-up-right",
+    "path": "lucide/circle-arrow-out-up-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-arrow-right",
+    "path": "lucide/circle-arrow-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-arrow-up",
+    "path": "lucide/circle-arrow-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-check-big",
+    "path": "lucide/circle-check-big.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-check",
+    "path": "lucide/circle-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-chevron-down",
+    "path": "lucide/circle-chevron-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-chevron-left",
+    "path": "lucide/circle-chevron-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-chevron-right",
+    "path": "lucide/circle-chevron-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-chevron-up",
+    "path": "lucide/circle-chevron-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-dashed",
+    "path": "lucide/circle-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-divide",
+    "path": "lucide/circle-divide.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-dollar-sign",
+    "path": "lucide/circle-dollar-sign.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-dot-dashed",
+    "path": "lucide/circle-dot-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-dot",
+    "path": "lucide/circle-dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-ellipsis",
+    "path": "lucide/circle-ellipsis.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-equal",
+    "path": "lucide/circle-equal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-fading-arrow-up",
+    "path": "lucide/circle-fading-arrow-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-fading-plus",
+    "path": "lucide/circle-fading-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-gauge",
+    "path": "lucide/circle-gauge.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-help",
+    "path": "lucide/circle-help.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-minus",
+    "path": "lucide/circle-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-off",
+    "path": "lucide/circle-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-parking-off",
+    "path": "lucide/circle-parking-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-parking",
+    "path": "lucide/circle-parking.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-pause",
+    "path": "lucide/circle-pause.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-percent",
+    "path": "lucide/circle-percent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-play",
+    "path": "lucide/circle-play.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-plus",
+    "path": "lucide/circle-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-pound-sterling",
+    "path": "lucide/circle-pound-sterling.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-power",
+    "path": "lucide/circle-power.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-question-mark",
+    "path": "lucide/circle-question-mark.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-slash-2",
+    "path": "lucide/circle-slash-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-slash",
+    "path": "lucide/circle-slash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-slashed",
+    "path": "lucide/circle-slashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-small",
+    "path": "lucide/circle-small.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-star",
+    "path": "lucide/circle-star.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-stop",
+    "path": "lucide/circle-stop.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-user-round",
+    "path": "lucide/circle-user-round.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-user",
+    "path": "lucide/circle-user.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle-x",
+    "path": "lucide/circle-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circle",
+    "path": "lucide/circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "circuit-board",
+    "path": "lucide/circuit-board.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "citrus",
+    "path": "lucide/citrus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clapperboard",
+    "path": "lucide/clapperboard.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-check",
+    "path": "lucide/clipboard-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-clock",
+    "path": "lucide/clipboard-clock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-copy",
+    "path": "lucide/clipboard-copy.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-edit",
+    "path": "lucide/clipboard-edit.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-list",
+    "path": "lucide/clipboard-list.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-minus",
+    "path": "lucide/clipboard-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-paste",
+    "path": "lucide/clipboard-paste.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-pen-line",
+    "path": "lucide/clipboard-pen-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-pen",
+    "path": "lucide/clipboard-pen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-plus",
+    "path": "lucide/clipboard-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-signature",
+    "path": "lucide/clipboard-signature.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-type",
+    "path": "lucide/clipboard-type.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard-x",
+    "path": "lucide/clipboard-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clipboard",
+    "path": "lucide/clipboard.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-1",
+    "path": "lucide/clock-1.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-10",
+    "path": "lucide/clock-10.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-11",
+    "path": "lucide/clock-11.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-12",
+    "path": "lucide/clock-12.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-2",
+    "path": "lucide/clock-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-3",
+    "path": "lucide/clock-3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-4",
+    "path": "lucide/clock-4.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-5",
+    "path": "lucide/clock-5.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-6",
+    "path": "lucide/clock-6.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-7",
+    "path": "lucide/clock-7.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-8",
+    "path": "lucide/clock-8.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-9",
+    "path": "lucide/clock-9.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-alert",
+    "path": "lucide/clock-alert.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-arrow-down",
+    "path": "lucide/clock-arrow-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-arrow-up",
+    "path": "lucide/clock-arrow-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-fading",
+    "path": "lucide/clock-fading.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock-plus",
+    "path": "lucide/clock-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clock",
+    "path": "lucide/clock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "closed-caption",
+    "path": "lucide/closed-caption.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-alert",
+    "path": "lucide/cloud-alert.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-check",
+    "path": "lucide/cloud-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-cog",
+    "path": "lucide/cloud-cog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-download",
+    "path": "lucide/cloud-download.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-drizzle",
+    "path": "lucide/cloud-drizzle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-fog",
+    "path": "lucide/cloud-fog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-hail",
+    "path": "lucide/cloud-hail.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-lightning",
+    "path": "lucide/cloud-lightning.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-moon-rain",
+    "path": "lucide/cloud-moon-rain.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-moon",
+    "path": "lucide/cloud-moon.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-off",
+    "path": "lucide/cloud-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-rain-wind",
+    "path": "lucide/cloud-rain-wind.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-rain",
+    "path": "lucide/cloud-rain.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-snow",
+    "path": "lucide/cloud-snow.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-sun-rain",
+    "path": "lucide/cloud-sun-rain.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-sun",
+    "path": "lucide/cloud-sun.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud-upload",
+    "path": "lucide/cloud-upload.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloud",
+    "path": "lucide/cloud.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cloudy",
+    "path": "lucide/cloudy.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "clover",
+    "path": "lucide/clover.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "club",
+    "path": "lucide/club.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "code-2",
+    "path": "lucide/code-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "code-square",
+    "path": "lucide/code-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "code-xml",
+    "path": "lucide/code-xml.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "code",
+    "path": "lucide/code.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "codepen",
+    "path": "lucide/codepen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "codesandbox",
+    "path": "lucide/codesandbox.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "coffee",
+    "path": "lucide/coffee.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cog",
+    "path": "lucide/cog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "coins",
+    "path": "lucide/coins.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "columns-2",
+    "path": "lucide/columns-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "columns-3-cog",
+    "path": "lucide/columns-3-cog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "columns-3",
+    "path": "lucide/columns-3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "columns-4",
+    "path": "lucide/columns-4.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "columns-settings",
+    "path": "lucide/columns-settings.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "columns",
+    "path": "lucide/columns.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "combine",
+    "path": "lucide/combine.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "command",
+    "path": "lucide/command.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "compass",
+    "path": "lucide/compass.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "component",
+    "path": "lucide/component.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "computer",
+    "path": "lucide/computer.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "concierge-bell",
+    "path": "lucide/concierge-bell.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cone",
+    "path": "lucide/cone.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "construction",
+    "path": "lucide/construction.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "contact-2",
+    "path": "lucide/contact-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "contact-round",
+    "path": "lucide/contact-round.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "contact",
+    "path": "lucide/contact.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "container",
+    "path": "lucide/container.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "contrast",
+    "path": "lucide/contrast.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cookie",
+    "path": "lucide/cookie.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cooking-pot",
+    "path": "lucide/cooking-pot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "copy-check",
+    "path": "lucide/copy-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "copy-minus",
+    "path": "lucide/copy-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "copy-plus",
+    "path": "lucide/copy-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "copy-slash",
+    "path": "lucide/copy-slash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "copy-x",
+    "path": "lucide/copy-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "copy",
+    "path": "lucide/copy.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "copyleft",
+    "path": "lucide/copyleft.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "copyright",
+    "path": "lucide/copyright.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "corner-down-left",
+    "path": "lucide/corner-down-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "corner-down-right",
+    "path": "lucide/corner-down-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "corner-left-down",
+    "path": "lucide/corner-left-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "corner-left-up",
+    "path": "lucide/corner-left-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "corner-right-down",
+    "path": "lucide/corner-right-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "corner-right-up",
+    "path": "lucide/corner-right-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "corner-up-left",
+    "path": "lucide/corner-up-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "corner-up-right",
+    "path": "lucide/corner-up-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cpu",
+    "path": "lucide/cpu.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "creative-commons",
+    "path": "lucide/creative-commons.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "credit-card",
+    "path": "lucide/credit-card.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "croissant",
+    "path": "lucide/croissant.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "crop",
+    "path": "lucide/crop.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cross",
+    "path": "lucide/cross.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "crosshair",
+    "path": "lucide/crosshair.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "crown",
+    "path": "lucide/crown.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cuboid",
+    "path": "lucide/cuboid.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cup-soda",
+    "path": "lucide/cup-soda.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "curly-braces",
+    "path": "lucide/curly-braces.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "currency",
+    "path": "lucide/currency.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "cylinder",
+    "path": "lucide/cylinder.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dam",
+    "path": "lucide/dam.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "database-backup",
+    "path": "lucide/database-backup.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "database-zap",
+    "path": "lucide/database-zap.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "database",
+    "path": "lucide/database.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "decimals-arrow-left",
+    "path": "lucide/decimals-arrow-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "decimals-arrow-right",
+    "path": "lucide/decimals-arrow-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "delete",
+    "path": "lucide/delete.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dessert",
+    "path": "lucide/dessert.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "diameter",
+    "path": "lucide/diameter.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "diamond-minus",
+    "path": "lucide/diamond-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "diamond-percent",
+    "path": "lucide/diamond-percent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "diamond-plus",
+    "path": "lucide/diamond-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "diamond",
+    "path": "lucide/diamond.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dice-1",
+    "path": "lucide/dice-1.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dice-2",
+    "path": "lucide/dice-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dice-3",
+    "path": "lucide/dice-3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dice-4",
+    "path": "lucide/dice-4.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dice-5",
+    "path": "lucide/dice-5.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dice-6",
+    "path": "lucide/dice-6.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dices",
+    "path": "lucide/dices.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "diff",
+    "path": "lucide/diff.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "disc-2",
+    "path": "lucide/disc-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "disc-3",
+    "path": "lucide/disc-3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "disc-album",
+    "path": "lucide/disc-album.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "disc",
+    "path": "lucide/disc.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "divide-circle",
+    "path": "lucide/divide-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "divide-square",
+    "path": "lucide/divide-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "divide",
+    "path": "lucide/divide.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dna-off",
+    "path": "lucide/dna-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dna",
+    "path": "lucide/dna.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dock",
+    "path": "lucide/dock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dog",
+    "path": "lucide/dog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dollar-sign",
+    "path": "lucide/dollar-sign.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "donut",
+    "path": "lucide/donut.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "door-closed-locked",
+    "path": "lucide/door-closed-locked.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "door-closed",
+    "path": "lucide/door-closed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "door-open",
+    "path": "lucide/door-open.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dot-square",
+    "path": "lucide/dot-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dot",
+    "path": "lucide/dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "download-cloud",
+    "path": "lucide/download-cloud.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "download",
+    "path": "lucide/download.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "drafting-compass",
+    "path": "lucide/drafting-compass.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "drama",
+    "path": "lucide/drama.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dribbble",
+    "path": "lucide/dribbble.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "drill",
+    "path": "lucide/drill.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "drone",
+    "path": "lucide/drone.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "droplet-off",
+    "path": "lucide/droplet-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "droplet",
+    "path": "lucide/droplet.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "droplets",
+    "path": "lucide/droplets.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "drum",
+    "path": "lucide/drum.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "drumstick",
+    "path": "lucide/drumstick.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "dumbbell",
+    "path": "lucide/dumbbell.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ear-off",
+    "path": "lucide/ear-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ear",
+    "path": "lucide/ear.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "earth-lock",
+    "path": "lucide/earth-lock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "earth",
+    "path": "lucide/earth.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "eclipse",
+    "path": "lucide/eclipse.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "edit-2",
+    "path": "lucide/edit-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "edit-3",
+    "path": "lucide/edit-3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "edit",
+    "path": "lucide/edit.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "egg-fried",
+    "path": "lucide/egg-fried.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "egg-off",
+    "path": "lucide/egg-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "egg",
+    "path": "lucide/egg.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ellipsis-vertical",
+    "path": "lucide/ellipsis-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ellipsis",
+    "path": "lucide/ellipsis.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "equal-approximately",
+    "path": "lucide/equal-approximately.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "equal-not",
+    "path": "lucide/equal-not.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "equal-square",
+    "path": "lucide/equal-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "equal",
+    "path": "lucide/equal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "eraser",
+    "path": "lucide/eraser.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ethernet-port",
+    "path": "lucide/ethernet-port.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "euro",
+    "path": "lucide/euro.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ev-charger",
+    "path": "lucide/ev-charger.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "expand",
+    "path": "lucide/expand.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "external-link",
+    "path": "lucide/external-link.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "eye-closed",
+    "path": "lucide/eye-closed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "eye-off",
+    "path": "lucide/eye-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "eye",
+    "path": "lucide/eye.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "facebook",
+    "path": "lucide/facebook.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "factory",
+    "path": "lucide/factory.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fan",
+    "path": "lucide/fan.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fast-forward",
+    "path": "lucide/fast-forward.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "feather",
+    "path": "lucide/feather.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fence",
+    "path": "lucide/fence.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ferris-wheel",
+    "path": "lucide/ferris-wheel.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "figma",
+    "path": "lucide/figma.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-archive",
+    "path": "lucide/file-archive.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-audio-2",
+    "path": "lucide/file-audio-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-audio",
+    "path": "lucide/file-audio.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-axis-3-d",
+    "path": "lucide/file-axis-3-d.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-axis-3d",
+    "path": "lucide/file-axis-3d.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-badge-2",
+    "path": "lucide/file-badge-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-badge",
+    "path": "lucide/file-badge.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-bar-chart-2",
+    "path": "lucide/file-bar-chart-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-bar-chart",
+    "path": "lucide/file-bar-chart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-box",
+    "path": "lucide/file-box.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-chart-column-increasing",
+    "path": "lucide/file-chart-column-increasing.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-chart-column",
+    "path": "lucide/file-chart-column.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-chart-line",
+    "path": "lucide/file-chart-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-chart-pie",
+    "path": "lucide/file-chart-pie.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-check-2",
+    "path": "lucide/file-check-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-check",
+    "path": "lucide/file-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-clock",
+    "path": "lucide/file-clock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-code-2",
+    "path": "lucide/file-code-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-code",
+    "path": "lucide/file-code.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-cog-2",
+    "path": "lucide/file-cog-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-cog",
+    "path": "lucide/file-cog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-diff",
+    "path": "lucide/file-diff.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-digit",
+    "path": "lucide/file-digit.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-down",
+    "path": "lucide/file-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-edit",
+    "path": "lucide/file-edit.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-heart",
+    "path": "lucide/file-heart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-image",
+    "path": "lucide/file-image.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-input",
+    "path": "lucide/file-input.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-json-2",
+    "path": "lucide/file-json-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-json",
+    "path": "lucide/file-json.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-key-2",
+    "path": "lucide/file-key-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-key",
+    "path": "lucide/file-key.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-line-chart",
+    "path": "lucide/file-line-chart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-lock-2",
+    "path": "lucide/file-lock-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-lock",
+    "path": "lucide/file-lock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-minus-2",
+    "path": "lucide/file-minus-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-minus",
+    "path": "lucide/file-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-music",
+    "path": "lucide/file-music.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-output",
+    "path": "lucide/file-output.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-pen-line",
+    "path": "lucide/file-pen-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-pen",
+    "path": "lucide/file-pen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-pie-chart",
+    "path": "lucide/file-pie-chart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-play",
+    "path": "lucide/file-play.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-plus-2",
+    "path": "lucide/file-plus-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-plus",
+    "path": "lucide/file-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-question-mark",
+    "path": "lucide/file-question-mark.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-question",
+    "path": "lucide/file-question.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-scan",
+    "path": "lucide/file-scan.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-search-2",
+    "path": "lucide/file-search-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-search",
+    "path": "lucide/file-search.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-signature",
+    "path": "lucide/file-signature.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-sliders",
+    "path": "lucide/file-sliders.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-spreadsheet",
+    "path": "lucide/file-spreadsheet.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-stack",
+    "path": "lucide/file-stack.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-symlink",
+    "path": "lucide/file-symlink.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-terminal",
+    "path": "lucide/file-terminal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-text",
+    "path": "lucide/file-text.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-type-2",
+    "path": "lucide/file-type-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-type",
+    "path": "lucide/file-type.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-up",
+    "path": "lucide/file-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-user",
+    "path": "lucide/file-user.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-video-2",
+    "path": "lucide/file-video-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-video-camera",
+    "path": "lucide/file-video-camera.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-video",
+    "path": "lucide/file-video.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-volume-2",
+    "path": "lucide/file-volume-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-volume",
+    "path": "lucide/file-volume.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-warning",
+    "path": "lucide/file-warning.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-x-2",
+    "path": "lucide/file-x-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file-x",
+    "path": "lucide/file-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "file",
+    "path": "lucide/file.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "files",
+    "path": "lucide/files.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "film",
+    "path": "lucide/film.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "filter-x",
+    "path": "lucide/filter-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "filter",
+    "path": "lucide/filter.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fingerprint",
+    "path": "lucide/fingerprint.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fire-extinguisher",
+    "path": "lucide/fire-extinguisher.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fish-off",
+    "path": "lucide/fish-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fish-symbol",
+    "path": "lucide/fish-symbol.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fish",
+    "path": "lucide/fish.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flag-off",
+    "path": "lucide/flag-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flag-triangle-left",
+    "path": "lucide/flag-triangle-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flag-triangle-right",
+    "path": "lucide/flag-triangle-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flag",
+    "path": "lucide/flag.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flame-kindling",
+    "path": "lucide/flame-kindling.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flame",
+    "path": "lucide/flame.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flashlight-off",
+    "path": "lucide/flashlight-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flashlight",
+    "path": "lucide/flashlight.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flask-conical-off",
+    "path": "lucide/flask-conical-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flask-conical",
+    "path": "lucide/flask-conical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flask-round",
+    "path": "lucide/flask-round.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flip-horizontal-2",
+    "path": "lucide/flip-horizontal-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flip-horizontal",
+    "path": "lucide/flip-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flip-vertical-2",
+    "path": "lucide/flip-vertical-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flip-vertical",
+    "path": "lucide/flip-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flower-2",
+    "path": "lucide/flower-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "flower",
+    "path": "lucide/flower.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "focus",
+    "path": "lucide/focus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fold-horizontal",
+    "path": "lucide/fold-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fold-vertical",
+    "path": "lucide/fold-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-archive",
+    "path": "lucide/folder-archive.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-check",
+    "path": "lucide/folder-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-clock",
+    "path": "lucide/folder-clock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-closed",
+    "path": "lucide/folder-closed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-code",
+    "path": "lucide/folder-code.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-cog-2",
+    "path": "lucide/folder-cog-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-cog",
+    "path": "lucide/folder-cog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-dot",
+    "path": "lucide/folder-dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-down",
+    "path": "lucide/folder-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-edit",
+    "path": "lucide/folder-edit.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-git-2",
+    "path": "lucide/folder-git-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-git",
+    "path": "lucide/folder-git.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-heart",
+    "path": "lucide/folder-heart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-input",
+    "path": "lucide/folder-input.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-kanban",
+    "path": "lucide/folder-kanban.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-key",
+    "path": "lucide/folder-key.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-lock",
+    "path": "lucide/folder-lock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-minus",
+    "path": "lucide/folder-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-open-dot",
+    "path": "lucide/folder-open-dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-open",
+    "path": "lucide/folder-open.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-output",
+    "path": "lucide/folder-output.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-pen",
+    "path": "lucide/folder-pen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-plus",
+    "path": "lucide/folder-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-root",
+    "path": "lucide/folder-root.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-search-2",
+    "path": "lucide/folder-search-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-search",
+    "path": "lucide/folder-search.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-symlink",
+    "path": "lucide/folder-symlink.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-sync",
+    "path": "lucide/folder-sync.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-tree",
+    "path": "lucide/folder-tree.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-up",
+    "path": "lucide/folder-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder-x",
+    "path": "lucide/folder-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folder",
+    "path": "lucide/folder.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "folders",
+    "path": "lucide/folders.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "footprints",
+    "path": "lucide/footprints.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fork-knife-crossed",
+    "path": "lucide/fork-knife-crossed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fork-knife",
+    "path": "lucide/fork-knife.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "forklift",
+    "path": "lucide/forklift.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "form-input",
+    "path": "lucide/form-input.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "forward",
+    "path": "lucide/forward.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "frame",
+    "path": "lucide/frame.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "framer",
+    "path": "lucide/framer.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "frown",
+    "path": "lucide/frown.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fuel",
+    "path": "lucide/fuel.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "fullscreen",
+    "path": "lucide/fullscreen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "function-square",
+    "path": "lucide/function-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "funnel-plus",
+    "path": "lucide/funnel-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "funnel-x",
+    "path": "lucide/funnel-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "funnel",
+    "path": "lucide/funnel.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gallery-horizontal-end",
+    "path": "lucide/gallery-horizontal-end.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gallery-horizontal",
+    "path": "lucide/gallery-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gallery-thumbnails",
+    "path": "lucide/gallery-thumbnails.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gallery-vertical-end",
+    "path": "lucide/gallery-vertical-end.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gallery-vertical",
+    "path": "lucide/gallery-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gamepad-2",
+    "path": "lucide/gamepad-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gamepad-directional",
+    "path": "lucide/gamepad-directional.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gamepad",
+    "path": "lucide/gamepad.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gantt-chart-square",
+    "path": "lucide/gantt-chart-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gantt-chart",
+    "path": "lucide/gantt-chart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gauge-circle",
+    "path": "lucide/gauge-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gauge",
+    "path": "lucide/gauge.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gavel",
+    "path": "lucide/gavel.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gem",
+    "path": "lucide/gem.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "georgian-lari",
+    "path": "lucide/georgian-lari.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ghost",
+    "path": "lucide/ghost.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gift",
+    "path": "lucide/gift.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-branch-plus",
+    "path": "lucide/git-branch-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-branch",
+    "path": "lucide/git-branch.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-commit-horizontal",
+    "path": "lucide/git-commit-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-commit-vertical",
+    "path": "lucide/git-commit-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-commit",
+    "path": "lucide/git-commit.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-compare-arrows",
+    "path": "lucide/git-compare-arrows.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-compare",
+    "path": "lucide/git-compare.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-fork",
+    "path": "lucide/git-fork.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-graph",
+    "path": "lucide/git-graph.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-merge",
+    "path": "lucide/git-merge.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-pull-request-arrow",
+    "path": "lucide/git-pull-request-arrow.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-pull-request-closed",
+    "path": "lucide/git-pull-request-closed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-pull-request-create-arrow",
+    "path": "lucide/git-pull-request-create-arrow.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-pull-request-create",
+    "path": "lucide/git-pull-request-create.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-pull-request-draft",
+    "path": "lucide/git-pull-request-draft.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "git-pull-request",
+    "path": "lucide/git-pull-request.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "github",
+    "path": "lucide/github.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gitlab",
+    "path": "lucide/gitlab.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "glass-water",
+    "path": "lucide/glass-water.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "glasses",
+    "path": "lucide/glasses.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "globe-2",
+    "path": "lucide/globe-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "globe-lock",
+    "path": "lucide/globe-lock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "globe",
+    "path": "lucide/globe.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "goal",
+    "path": "lucide/goal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "gpu",
+    "path": "lucide/gpu.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grab",
+    "path": "lucide/grab.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "graduation-cap",
+    "path": "lucide/graduation-cap.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grape",
+    "path": "lucide/grape.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grid-2-x-2-check",
+    "path": "lucide/grid-2-x-2-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grid-2-x-2-plus",
+    "path": "lucide/grid-2-x-2-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grid-2-x-2-x",
+    "path": "lucide/grid-2-x-2-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grid-2-x-2",
+    "path": "lucide/grid-2-x-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grid-2x2-check",
+    "path": "lucide/grid-2x2-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grid-2x2-plus",
+    "path": "lucide/grid-2x2-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grid-2x2-x",
+    "path": "lucide/grid-2x2-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grid-2x2",
+    "path": "lucide/grid-2x2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grid-3-x-3",
+    "path": "lucide/grid-3-x-3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grid-3x2",
+    "path": "lucide/grid-3x2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grid-3x3",
+    "path": "lucide/grid-3x3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grid",
+    "path": "lucide/grid.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grip-horizontal",
+    "path": "lucide/grip-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grip-vertical",
+    "path": "lucide/grip-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "grip",
+    "path": "lucide/grip.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "group",
+    "path": "lucide/group.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "guitar",
+    "path": "lucide/guitar.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ham",
+    "path": "lucide/ham.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hamburger",
+    "path": "lucide/hamburger.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hammer",
+    "path": "lucide/hammer.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hand-coins",
+    "path": "lucide/hand-coins.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hand-fist",
+    "path": "lucide/hand-fist.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hand-grab",
+    "path": "lucide/hand-grab.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hand-heart",
+    "path": "lucide/hand-heart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hand-helping",
+    "path": "lucide/hand-helping.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hand-metal",
+    "path": "lucide/hand-metal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hand-platter",
+    "path": "lucide/hand-platter.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hand",
+    "path": "lucide/hand.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "handbag",
+    "path": "lucide/handbag.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "handshake",
+    "path": "lucide/handshake.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hard-drive-download",
+    "path": "lucide/hard-drive-download.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hard-drive-upload",
+    "path": "lucide/hard-drive-upload.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hard-drive",
+    "path": "lucide/hard-drive.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hard-hat",
+    "path": "lucide/hard-hat.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hash",
+    "path": "lucide/hash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hat-glasses",
+    "path": "lucide/hat-glasses.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "haze",
+    "path": "lucide/haze.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hdmi-port",
+    "path": "lucide/hdmi-port.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heading-1",
+    "path": "lucide/heading-1.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heading-2",
+    "path": "lucide/heading-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heading-3",
+    "path": "lucide/heading-3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heading-4",
+    "path": "lucide/heading-4.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heading-5",
+    "path": "lucide/heading-5.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heading-6",
+    "path": "lucide/heading-6.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heading",
+    "path": "lucide/heading.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "headphone-off",
+    "path": "lucide/headphone-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "headphones",
+    "path": "lucide/headphones.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "headset",
+    "path": "lucide/headset.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heart-crack",
+    "path": "lucide/heart-crack.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heart-handshake",
+    "path": "lucide/heart-handshake.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heart-minus",
+    "path": "lucide/heart-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heart-off",
+    "path": "lucide/heart-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heart-plus",
+    "path": "lucide/heart-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heart-pulse",
+    "path": "lucide/heart-pulse.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heart",
+    "path": "lucide/heart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "heater",
+    "path": "lucide/heater.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "help-circle",
+    "path": "lucide/help-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "helping-hand",
+    "path": "lucide/helping-hand.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hexagon",
+    "path": "lucide/hexagon.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "highlighter",
+    "path": "lucide/highlighter.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "history",
+    "path": "lucide/history.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "home",
+    "path": "lucide/home.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hop-off",
+    "path": "lucide/hop-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hop",
+    "path": "lucide/hop.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hospital",
+    "path": "lucide/hospital.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hotel",
+    "path": "lucide/hotel.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "hourglass",
+    "path": "lucide/hourglass.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "house-heart",
+    "path": "lucide/house-heart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "house-plug",
+    "path": "lucide/house-plug.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "house-plus",
+    "path": "lucide/house-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "house-wifi",
+    "path": "lucide/house-wifi.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "house",
+    "path": "lucide/house.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ice-cream-2",
+    "path": "lucide/ice-cream-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ice-cream-bowl",
+    "path": "lucide/ice-cream-bowl.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ice-cream-cone",
+    "path": "lucide/ice-cream-cone.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ice-cream",
+    "path": "lucide/ice-cream.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "id-card-lanyard",
+    "path": "lucide/id-card-lanyard.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "id-card",
+    "path": "lucide/id-card.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "image-down",
+    "path": "lucide/image-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "image-minus",
+    "path": "lucide/image-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "image-off",
+    "path": "lucide/image-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "image-play",
+    "path": "lucide/image-play.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "image-plus",
+    "path": "lucide/image-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "image-up",
+    "path": "lucide/image-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "image-upscale",
+    "path": "lucide/image-upscale.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "image",
+    "path": "lucide/image.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "images",
+    "path": "lucide/images.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "import",
+    "path": "lucide/import.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "inbox",
+    "path": "lucide/inbox.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "indent-decrease",
+    "path": "lucide/indent-decrease.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "indent-increase",
+    "path": "lucide/indent-increase.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "indent",
+    "path": "lucide/indent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "indian-rupee",
+    "path": "lucide/indian-rupee.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "infinity",
+    "path": "lucide/infinity.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "info",
+    "path": "lucide/info.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "inspect",
+    "path": "lucide/inspect.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "inspection-panel",
+    "path": "lucide/inspection-panel.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "instagram",
+    "path": "lucide/instagram.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "italic",
+    "path": "lucide/italic.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "iteration-ccw",
+    "path": "lucide/iteration-ccw.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "iteration-cw",
+    "path": "lucide/iteration-cw.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "japanese-yen",
+    "path": "lucide/japanese-yen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "joystick",
+    "path": "lucide/joystick.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "kanban-square-dashed",
+    "path": "lucide/kanban-square-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "kanban-square",
+    "path": "lucide/kanban-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "kanban",
+    "path": "lucide/kanban.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "kayak",
+    "path": "lucide/kayak.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "key-round",
+    "path": "lucide/key-round.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "key-square",
+    "path": "lucide/key-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "key",
+    "path": "lucide/key.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "keyboard-music",
+    "path": "lucide/keyboard-music.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "keyboard-off",
+    "path": "lucide/keyboard-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "keyboard",
+    "path": "lucide/keyboard.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lamp-ceiling",
+    "path": "lucide/lamp-ceiling.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lamp-desk",
+    "path": "lucide/lamp-desk.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lamp-floor",
+    "path": "lucide/lamp-floor.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lamp-wall-down",
+    "path": "lucide/lamp-wall-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lamp-wall-up",
+    "path": "lucide/lamp-wall-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lamp",
+    "path": "lucide/lamp.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "land-plot",
+    "path": "lucide/land-plot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "landmark",
+    "path": "lucide/landmark.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "languages",
+    "path": "lucide/languages.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "laptop-2",
+    "path": "lucide/laptop-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "laptop-minimal-check",
+    "path": "lucide/laptop-minimal-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "laptop-minimal",
+    "path": "lucide/laptop-minimal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "laptop",
+    "path": "lucide/laptop.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lasso-select",
+    "path": "lucide/lasso-select.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lasso",
+    "path": "lucide/lasso.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "laugh",
+    "path": "lucide/laugh.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "layers-2",
+    "path": "lucide/layers-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "layers-3",
+    "path": "lucide/layers-3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "layers",
+    "path": "lucide/layers.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "layout-dashboard",
+    "path": "lucide/layout-dashboard.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "layout-grid",
+    "path": "lucide/layout-grid.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "layout-list",
+    "path": "lucide/layout-list.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "layout-panel-left",
+    "path": "lucide/layout-panel-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "layout-panel-top",
+    "path": "lucide/layout-panel-top.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "layout-template",
+    "path": "lucide/layout-template.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "layout",
+    "path": "lucide/layout.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "leaf",
+    "path": "lucide/leaf.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "leafy-green",
+    "path": "lucide/leafy-green.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lectern",
+    "path": "lucide/lectern.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "letter-text",
+    "path": "lucide/letter-text.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "library-big",
+    "path": "lucide/library-big.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "library-square",
+    "path": "lucide/library-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "library",
+    "path": "lucide/library.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "life-buoy",
+    "path": "lucide/life-buoy.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ligature",
+    "path": "lucide/ligature.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lightbulb-off",
+    "path": "lucide/lightbulb-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lightbulb",
+    "path": "lucide/lightbulb.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "line-chart",
+    "path": "lucide/line-chart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "line-squiggle",
+    "path": "lucide/line-squiggle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "link-2-off",
+    "path": "lucide/link-2-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "link-2",
+    "path": "lucide/link-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "link",
+    "path": "lucide/link.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "linkedin",
+    "path": "lucide/linkedin.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-check",
+    "path": "lucide/list-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-checks",
+    "path": "lucide/list-checks.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-chevrons-down-up",
+    "path": "lucide/list-chevrons-down-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-chevrons-up-down",
+    "path": "lucide/list-chevrons-up-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-collapse",
+    "path": "lucide/list-collapse.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-end",
+    "path": "lucide/list-end.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-filter-plus",
+    "path": "lucide/list-filter-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-filter",
+    "path": "lucide/list-filter.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-indent-decrease",
+    "path": "lucide/list-indent-decrease.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-indent-increase",
+    "path": "lucide/list-indent-increase.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-minus",
+    "path": "lucide/list-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-music",
+    "path": "lucide/list-music.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-ordered",
+    "path": "lucide/list-ordered.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-plus",
+    "path": "lucide/list-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-restart",
+    "path": "lucide/list-restart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-start",
+    "path": "lucide/list-start.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-todo",
+    "path": "lucide/list-todo.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-tree",
+    "path": "lucide/list-tree.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-video",
+    "path": "lucide/list-video.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list-x",
+    "path": "lucide/list-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "list",
+    "path": "lucide/list.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "loader-2",
+    "path": "lucide/loader-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "loader-circle",
+    "path": "lucide/loader-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "loader-pinwheel",
+    "path": "lucide/loader-pinwheel.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "loader",
+    "path": "lucide/loader.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "locate-fixed",
+    "path": "lucide/locate-fixed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "locate-off",
+    "path": "lucide/locate-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "locate",
+    "path": "lucide/locate.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "location-edit",
+    "path": "lucide/location-edit.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lock-keyhole-open",
+    "path": "lucide/lock-keyhole-open.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lock-keyhole",
+    "path": "lucide/lock-keyhole.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lock-open",
+    "path": "lucide/lock-open.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lock",
+    "path": "lucide/lock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "log-in",
+    "path": "lucide/log-in.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "log-out",
+    "path": "lucide/log-out.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "logs",
+    "path": "lucide/logs.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "lollipop",
+    "path": "lucide/lollipop.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "luggage",
+    "path": "lucide/luggage.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "m-square",
+    "path": "lucide/m-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "magnet",
+    "path": "lucide/magnet.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mail-check",
+    "path": "lucide/mail-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mail-minus",
+    "path": "lucide/mail-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mail-open",
+    "path": "lucide/mail-open.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mail-plus",
+    "path": "lucide/mail-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mail-question-mark",
+    "path": "lucide/mail-question-mark.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mail-question",
+    "path": "lucide/mail-question.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mail-search",
+    "path": "lucide/mail-search.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mail-warning",
+    "path": "lucide/mail-warning.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mail-x",
+    "path": "lucide/mail-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mail",
+    "path": "lucide/mail.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mailbox",
+    "path": "lucide/mailbox.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mails",
+    "path": "lucide/mails.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-minus",
+    "path": "lucide/map-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pin-check-inside",
+    "path": "lucide/map-pin-check-inside.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pin-check",
+    "path": "lucide/map-pin-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pin-house",
+    "path": "lucide/map-pin-house.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pin-minus-inside",
+    "path": "lucide/map-pin-minus-inside.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pin-minus",
+    "path": "lucide/map-pin-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pin-off",
+    "path": "lucide/map-pin-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pin-pen",
+    "path": "lucide/map-pin-pen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pin-plus-inside",
+    "path": "lucide/map-pin-plus-inside.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pin-plus",
+    "path": "lucide/map-pin-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pin-x-inside",
+    "path": "lucide/map-pin-x-inside.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pin-x",
+    "path": "lucide/map-pin-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pin",
+    "path": "lucide/map-pin.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-pinned",
+    "path": "lucide/map-pinned.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map-plus",
+    "path": "lucide/map-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "map",
+    "path": "lucide/map.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mars-stroke",
+    "path": "lucide/mars-stroke.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mars",
+    "path": "lucide/mars.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "martini",
+    "path": "lucide/martini.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "maximize-2",
+    "path": "lucide/maximize-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "maximize",
+    "path": "lucide/maximize.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "medal",
+    "path": "lucide/medal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "megaphone-off",
+    "path": "lucide/megaphone-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "megaphone",
+    "path": "lucide/megaphone.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "meh",
+    "path": "lucide/meh.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "memory-stick",
+    "path": "lucide/memory-stick.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "menu-square",
+    "path": "lucide/menu-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "menu",
+    "path": "lucide/menu.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "merge",
+    "path": "lucide/merge.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-circle-code",
+    "path": "lucide/message-circle-code.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-circle-dashed",
+    "path": "lucide/message-circle-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-circle-heart",
+    "path": "lucide/message-circle-heart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-circle-more",
+    "path": "lucide/message-circle-more.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-circle-off",
+    "path": "lucide/message-circle-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-circle-plus",
+    "path": "lucide/message-circle-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-circle-question-mark",
+    "path": "lucide/message-circle-question-mark.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-circle-question",
+    "path": "lucide/message-circle-question.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-circle-reply",
+    "path": "lucide/message-circle-reply.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-circle-warning",
+    "path": "lucide/message-circle-warning.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-circle-x",
+    "path": "lucide/message-circle-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-circle",
+    "path": "lucide/message-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-code",
+    "path": "lucide/message-square-code.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-dashed",
+    "path": "lucide/message-square-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-diff",
+    "path": "lucide/message-square-diff.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-dot",
+    "path": "lucide/message-square-dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-heart",
+    "path": "lucide/message-square-heart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-lock",
+    "path": "lucide/message-square-lock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-more",
+    "path": "lucide/message-square-more.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-off",
+    "path": "lucide/message-square-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-plus",
+    "path": "lucide/message-square-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-quote",
+    "path": "lucide/message-square-quote.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-reply",
+    "path": "lucide/message-square-reply.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-share",
+    "path": "lucide/message-square-share.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-text",
+    "path": "lucide/message-square-text.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-warning",
+    "path": "lucide/message-square-warning.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square-x",
+    "path": "lucide/message-square-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "message-square",
+    "path": "lucide/message-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "messages-square",
+    "path": "lucide/messages-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mic-2",
+    "path": "lucide/mic-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mic-off",
+    "path": "lucide/mic-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mic-vocal",
+    "path": "lucide/mic-vocal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mic",
+    "path": "lucide/mic.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "microchip",
+    "path": "lucide/microchip.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "microscope",
+    "path": "lucide/microscope.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "microwave",
+    "path": "lucide/microwave.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "milestone",
+    "path": "lucide/milestone.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "milk-off",
+    "path": "lucide/milk-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "milk",
+    "path": "lucide/milk.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "minimize-2",
+    "path": "lucide/minimize-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "minimize",
+    "path": "lucide/minimize.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "minus-circle",
+    "path": "lucide/minus-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "minus-square",
+    "path": "lucide/minus-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "minus",
+    "path": "lucide/minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-check",
+    "path": "lucide/monitor-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-cloud",
+    "path": "lucide/monitor-cloud.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-cog",
+    "path": "lucide/monitor-cog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-dot",
+    "path": "lucide/monitor-dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-down",
+    "path": "lucide/monitor-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-off",
+    "path": "lucide/monitor-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-pause",
+    "path": "lucide/monitor-pause.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-play",
+    "path": "lucide/monitor-play.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-smartphone",
+    "path": "lucide/monitor-smartphone.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-speaker",
+    "path": "lucide/monitor-speaker.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-stop",
+    "path": "lucide/monitor-stop.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-up",
+    "path": "lucide/monitor-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor-x",
+    "path": "lucide/monitor-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "monitor",
+    "path": "lucide/monitor.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "moon-star",
+    "path": "lucide/moon-star.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "moon",
+    "path": "lucide/moon.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "more-horizontal",
+    "path": "lucide/more-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "more-vertical",
+    "path": "lucide/more-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "motorbike",
+    "path": "lucide/motorbike.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mountain-snow",
+    "path": "lucide/mountain-snow.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mountain",
+    "path": "lucide/mountain.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mouse-off",
+    "path": "lucide/mouse-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mouse-pointer-2",
+    "path": "lucide/mouse-pointer-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mouse-pointer-ban",
+    "path": "lucide/mouse-pointer-ban.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mouse-pointer-click",
+    "path": "lucide/mouse-pointer-click.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mouse-pointer-square-dashed",
+    "path": "lucide/mouse-pointer-square-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mouse-pointer",
+    "path": "lucide/mouse-pointer.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "mouse",
+    "path": "lucide/mouse.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-3-d",
+    "path": "lucide/move-3-d.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-3d",
+    "path": "lucide/move-3d.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-diagonal-2",
+    "path": "lucide/move-diagonal-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-diagonal",
+    "path": "lucide/move-diagonal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-down-left",
+    "path": "lucide/move-down-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-down-right",
+    "path": "lucide/move-down-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-down",
+    "path": "lucide/move-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-horizontal",
+    "path": "lucide/move-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-left",
+    "path": "lucide/move-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-right",
+    "path": "lucide/move-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-up-left",
+    "path": "lucide/move-up-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-up-right",
+    "path": "lucide/move-up-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-up",
+    "path": "lucide/move-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move-vertical",
+    "path": "lucide/move-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "move",
+    "path": "lucide/move.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "music-2",
+    "path": "lucide/music-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "music-3",
+    "path": "lucide/music-3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "music-4",
+    "path": "lucide/music-4.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "music",
+    "path": "lucide/music.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "navigation-2-off",
+    "path": "lucide/navigation-2-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "navigation-2",
+    "path": "lucide/navigation-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "navigation-off",
+    "path": "lucide/navigation-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "navigation",
+    "path": "lucide/navigation.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "network",
+    "path": "lucide/network.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "newspaper",
+    "path": "lucide/newspaper.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "nfc",
+    "path": "lucide/nfc.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "non-binary",
+    "path": "lucide/non-binary.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "notebook-pen",
+    "path": "lucide/notebook-pen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "notebook-tabs",
+    "path": "lucide/notebook-tabs.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "notebook-text",
+    "path": "lucide/notebook-text.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "notebook",
+    "path": "lucide/notebook.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "notepad-text-dashed",
+    "path": "lucide/notepad-text-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "notepad-text",
+    "path": "lucide/notepad-text.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "nut-off",
+    "path": "lucide/nut-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "nut",
+    "path": "lucide/nut.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "octagon-alert",
+    "path": "lucide/octagon-alert.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "octagon-minus",
+    "path": "lucide/octagon-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "octagon-pause",
+    "path": "lucide/octagon-pause.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "octagon-x",
+    "path": "lucide/octagon-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "octagon",
+    "path": "lucide/octagon.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "omega",
+    "path": "lucide/omega.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "option",
+    "path": "lucide/option.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "orbit",
+    "path": "lucide/orbit.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "origami",
+    "path": "lucide/origami.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "outdent",
+    "path": "lucide/outdent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "package-2",
+    "path": "lucide/package-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "package-check",
+    "path": "lucide/package-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "package-minus",
+    "path": "lucide/package-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "package-open",
+    "path": "lucide/package-open.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "package-plus",
+    "path": "lucide/package-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "package-search",
+    "path": "lucide/package-search.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "package-x",
+    "path": "lucide/package-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "package",
+    "path": "lucide/package.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "paint-bucket",
+    "path": "lucide/paint-bucket.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "paint-roller",
+    "path": "lucide/paint-roller.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "paintbrush-2",
+    "path": "lucide/paintbrush-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "paintbrush-vertical",
+    "path": "lucide/paintbrush-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "paintbrush",
+    "path": "lucide/paintbrush.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "palette",
+    "path": "lucide/palette.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "palmtree",
+    "path": "lucide/palmtree.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panda",
+    "path": "lucide/panda.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-bottom-close",
+    "path": "lucide/panel-bottom-close.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-bottom-dashed",
+    "path": "lucide/panel-bottom-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-bottom-inactive",
+    "path": "lucide/panel-bottom-inactive.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-bottom-open",
+    "path": "lucide/panel-bottom-open.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-bottom",
+    "path": "lucide/panel-bottom.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-left-close",
+    "path": "lucide/panel-left-close.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-left-dashed",
+    "path": "lucide/panel-left-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-left-inactive",
+    "path": "lucide/panel-left-inactive.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-left-open",
+    "path": "lucide/panel-left-open.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-left-right-dashed",
+    "path": "lucide/panel-left-right-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-left",
+    "path": "lucide/panel-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-right-close",
+    "path": "lucide/panel-right-close.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-right-dashed",
+    "path": "lucide/panel-right-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-right-inactive",
+    "path": "lucide/panel-right-inactive.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-right-open",
+    "path": "lucide/panel-right-open.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-right",
+    "path": "lucide/panel-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-top-bottom-dashed",
+    "path": "lucide/panel-top-bottom-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-top-close",
+    "path": "lucide/panel-top-close.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-top-dashed",
+    "path": "lucide/panel-top-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-top-inactive",
+    "path": "lucide/panel-top-inactive.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-top-open",
+    "path": "lucide/panel-top-open.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panel-top",
+    "path": "lucide/panel-top.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panels-left-bottom",
+    "path": "lucide/panels-left-bottom.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panels-left-right",
+    "path": "lucide/panels-left-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panels-right-bottom",
+    "path": "lucide/panels-right-bottom.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panels-top-bottom",
+    "path": "lucide/panels-top-bottom.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "panels-top-left",
+    "path": "lucide/panels-top-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "paperclip",
+    "path": "lucide/paperclip.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "parentheses",
+    "path": "lucide/parentheses.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "parking-circle-off",
+    "path": "lucide/parking-circle-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "parking-circle",
+    "path": "lucide/parking-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "parking-meter",
+    "path": "lucide/parking-meter.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "parking-square-off",
+    "path": "lucide/parking-square-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "parking-square",
+    "path": "lucide/parking-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "party-popper",
+    "path": "lucide/party-popper.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pause-circle",
+    "path": "lucide/pause-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pause-octagon",
+    "path": "lucide/pause-octagon.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pause",
+    "path": "lucide/pause.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "paw-print",
+    "path": "lucide/paw-print.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pc-case",
+    "path": "lucide/pc-case.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pen-box",
+    "path": "lucide/pen-box.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pen-line",
+    "path": "lucide/pen-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pen-off",
+    "path": "lucide/pen-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pen-square",
+    "path": "lucide/pen-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pen-tool",
+    "path": "lucide/pen-tool.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pen",
+    "path": "lucide/pen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pencil-line",
+    "path": "lucide/pencil-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pencil-off",
+    "path": "lucide/pencil-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pencil-ruler",
+    "path": "lucide/pencil-ruler.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pencil",
+    "path": "lucide/pencil.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pentagon",
+    "path": "lucide/pentagon.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "percent-circle",
+    "path": "lucide/percent-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "percent-diamond",
+    "path": "lucide/percent-diamond.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "percent-square",
+    "path": "lucide/percent-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "percent",
+    "path": "lucide/percent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "person-standing",
+    "path": "lucide/person-standing.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "philippine-peso",
+    "path": "lucide/philippine-peso.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "phone-call",
+    "path": "lucide/phone-call.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "phone-forwarded",
+    "path": "lucide/phone-forwarded.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "phone-incoming",
+    "path": "lucide/phone-incoming.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "phone-missed",
+    "path": "lucide/phone-missed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "phone-off",
+    "path": "lucide/phone-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "phone-outgoing",
+    "path": "lucide/phone-outgoing.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "phone",
+    "path": "lucide/phone.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pi-square",
+    "path": "lucide/pi-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pi",
+    "path": "lucide/pi.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "piano",
+    "path": "lucide/piano.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pickaxe",
+    "path": "lucide/pickaxe.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "picture-in-picture-2",
+    "path": "lucide/picture-in-picture-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "picture-in-picture",
+    "path": "lucide/picture-in-picture.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pie-chart",
+    "path": "lucide/pie-chart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "piggy-bank",
+    "path": "lucide/piggy-bank.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pilcrow-left",
+    "path": "lucide/pilcrow-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pilcrow-right",
+    "path": "lucide/pilcrow-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pilcrow-square",
+    "path": "lucide/pilcrow-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pilcrow",
+    "path": "lucide/pilcrow.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pill-bottle",
+    "path": "lucide/pill-bottle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pill",
+    "path": "lucide/pill.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pin-off",
+    "path": "lucide/pin-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pin",
+    "path": "lucide/pin.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pipette",
+    "path": "lucide/pipette.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pizza",
+    "path": "lucide/pizza.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "plane-landing",
+    "path": "lucide/plane-landing.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "plane-takeoff",
+    "path": "lucide/plane-takeoff.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "plane",
+    "path": "lucide/plane.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "play-circle",
+    "path": "lucide/play-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "play-square",
+    "path": "lucide/play-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "play",
+    "path": "lucide/play.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "plug-2",
+    "path": "lucide/plug-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "plug-zap-2",
+    "path": "lucide/plug-zap-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "plug-zap",
+    "path": "lucide/plug-zap.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "plug",
+    "path": "lucide/plug.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "plus-circle",
+    "path": "lucide/plus-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "plus-square",
+    "path": "lucide/plus-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "plus",
+    "path": "lucide/plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pocket-knife",
+    "path": "lucide/pocket-knife.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pocket",
+    "path": "lucide/pocket.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "podcast",
+    "path": "lucide/podcast.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pointer-off",
+    "path": "lucide/pointer-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pointer",
+    "path": "lucide/pointer.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "popcorn",
+    "path": "lucide/popcorn.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "popsicle",
+    "path": "lucide/popsicle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pound-sterling",
+    "path": "lucide/pound-sterling.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "power-circle",
+    "path": "lucide/power-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "power-off",
+    "path": "lucide/power-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "power-square",
+    "path": "lucide/power-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "power",
+    "path": "lucide/power.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "presentation",
+    "path": "lucide/presentation.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "printer-check",
+    "path": "lucide/printer-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "printer",
+    "path": "lucide/printer.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "projector",
+    "path": "lucide/projector.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "proportions",
+    "path": "lucide/proportions.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "puzzle",
+    "path": "lucide/puzzle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "pyramid",
+    "path": "lucide/pyramid.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "qr-code",
+    "path": "lucide/qr-code.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "quote",
+    "path": "lucide/quote.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rabbit",
+    "path": "lucide/rabbit.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "radar",
+    "path": "lucide/radar.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "radiation",
+    "path": "lucide/radiation.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "radical",
+    "path": "lucide/radical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "radio-receiver",
+    "path": "lucide/radio-receiver.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "radio-tower",
+    "path": "lucide/radio-tower.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "radio",
+    "path": "lucide/radio.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "radius",
+    "path": "lucide/radius.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rail-symbol",
+    "path": "lucide/rail-symbol.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rainbow",
+    "path": "lucide/rainbow.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rat",
+    "path": "lucide/rat.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ratio",
+    "path": "lucide/ratio.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "receipt-cent",
+    "path": "lucide/receipt-cent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "receipt-euro",
+    "path": "lucide/receipt-euro.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "receipt-indian-rupee",
+    "path": "lucide/receipt-indian-rupee.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "receipt-japanese-yen",
+    "path": "lucide/receipt-japanese-yen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "receipt-pound-sterling",
+    "path": "lucide/receipt-pound-sterling.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "receipt-russian-ruble",
+    "path": "lucide/receipt-russian-ruble.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "receipt-swiss-franc",
+    "path": "lucide/receipt-swiss-franc.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "receipt-text",
+    "path": "lucide/receipt-text.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "receipt-turkish-lira",
+    "path": "lucide/receipt-turkish-lira.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "receipt",
+    "path": "lucide/receipt.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rectangle-circle",
+    "path": "lucide/rectangle-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rectangle-ellipsis",
+    "path": "lucide/rectangle-ellipsis.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rectangle-goggles",
+    "path": "lucide/rectangle-goggles.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rectangle-horizontal",
+    "path": "lucide/rectangle-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rectangle-vertical",
+    "path": "lucide/rectangle-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "recycle",
+    "path": "lucide/recycle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "redo-2",
+    "path": "lucide/redo-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "redo-dot",
+    "path": "lucide/redo-dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "redo",
+    "path": "lucide/redo.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "refresh-ccw-dot",
+    "path": "lucide/refresh-ccw-dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "refresh-ccw",
+    "path": "lucide/refresh-ccw.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "refresh-cw-off",
+    "path": "lucide/refresh-cw-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "refresh-cw",
+    "path": "lucide/refresh-cw.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "refrigerator",
+    "path": "lucide/refrigerator.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "regex",
+    "path": "lucide/regex.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "remove-formatting",
+    "path": "lucide/remove-formatting.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "repeat-1",
+    "path": "lucide/repeat-1.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "repeat-2",
+    "path": "lucide/repeat-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "repeat",
+    "path": "lucide/repeat.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "replace-all",
+    "path": "lucide/replace-all.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "replace",
+    "path": "lucide/replace.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "reply-all",
+    "path": "lucide/reply-all.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "reply",
+    "path": "lucide/reply.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rewind",
+    "path": "lucide/rewind.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ribbon",
+    "path": "lucide/ribbon.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rocket",
+    "path": "lucide/rocket.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rocking-chair",
+    "path": "lucide/rocking-chair.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "roller-coaster",
+    "path": "lucide/roller-coaster.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rose",
+    "path": "lucide/rose.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rotate-3-d",
+    "path": "lucide/rotate-3-d.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rotate-3d",
+    "path": "lucide/rotate-3d.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rotate-ccw-key",
+    "path": "lucide/rotate-ccw-key.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rotate-ccw-square",
+    "path": "lucide/rotate-ccw-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rotate-ccw",
+    "path": "lucide/rotate-ccw.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rotate-cw-square",
+    "path": "lucide/rotate-cw-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rotate-cw",
+    "path": "lucide/rotate-cw.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "route-off",
+    "path": "lucide/route-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "route",
+    "path": "lucide/route.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "router",
+    "path": "lucide/router.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rows-2",
+    "path": "lucide/rows-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rows-3",
+    "path": "lucide/rows-3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rows-4",
+    "path": "lucide/rows-4.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rows",
+    "path": "lucide/rows.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "rss",
+    "path": "lucide/rss.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ruler-dimension-line",
+    "path": "lucide/ruler-dimension-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ruler",
+    "path": "lucide/ruler.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "russian-ruble",
+    "path": "lucide/russian-ruble.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sailboat",
+    "path": "lucide/sailboat.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "salad",
+    "path": "lucide/salad.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sandwich",
+    "path": "lucide/sandwich.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "satellite-dish",
+    "path": "lucide/satellite-dish.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "satellite",
+    "path": "lucide/satellite.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "saudi-riyal",
+    "path": "lucide/saudi-riyal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "save-all",
+    "path": "lucide/save-all.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "save-off",
+    "path": "lucide/save-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "save",
+    "path": "lucide/save.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scale-3-d",
+    "path": "lucide/scale-3-d.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scale-3d",
+    "path": "lucide/scale-3d.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scale",
+    "path": "lucide/scale.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scaling",
+    "path": "lucide/scaling.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scan-barcode",
+    "path": "lucide/scan-barcode.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scan-eye",
+    "path": "lucide/scan-eye.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scan-face",
+    "path": "lucide/scan-face.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scan-heart",
+    "path": "lucide/scan-heart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scan-line",
+    "path": "lucide/scan-line.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scan-qr-code",
+    "path": "lucide/scan-qr-code.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scan-search",
+    "path": "lucide/scan-search.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scan-text",
+    "path": "lucide/scan-text.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scan",
+    "path": "lucide/scan.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scatter-chart",
+    "path": "lucide/scatter-chart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "school-2",
+    "path": "lucide/school-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "school",
+    "path": "lucide/school.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scissors-line-dashed",
+    "path": "lucide/scissors-line-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scissors-square-dashed-bottom",
+    "path": "lucide/scissors-square-dashed-bottom.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scissors-square",
+    "path": "lucide/scissors-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scissors",
+    "path": "lucide/scissors.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "screen-share-off",
+    "path": "lucide/screen-share-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "screen-share",
+    "path": "lucide/screen-share.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scroll-text",
+    "path": "lucide/scroll-text.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "scroll",
+    "path": "lucide/scroll.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "search-check",
+    "path": "lucide/search-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "search-code",
+    "path": "lucide/search-code.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "search-slash",
+    "path": "lucide/search-slash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "search-x",
+    "path": "lucide/search-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "search",
+    "path": "lucide/search.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "section",
+    "path": "lucide/section.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "send-horizonal",
+    "path": "lucide/send-horizonal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "send-horizontal",
+    "path": "lucide/send-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "send-to-back",
+    "path": "lucide/send-to-back.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "send",
+    "path": "lucide/send.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "separator-horizontal",
+    "path": "lucide/separator-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "separator-vertical",
+    "path": "lucide/separator-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "server-cog",
+    "path": "lucide/server-cog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "server-crash",
+    "path": "lucide/server-crash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "server-off",
+    "path": "lucide/server-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "server",
+    "path": "lucide/server.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "settings-2",
+    "path": "lucide/settings-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "settings",
+    "path": "lucide/settings.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shapes",
+    "path": "lucide/shapes.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "share-2",
+    "path": "lucide/share-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "share",
+    "path": "lucide/share.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sheet",
+    "path": "lucide/sheet.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shell",
+    "path": "lucide/shell.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-alert",
+    "path": "lucide/shield-alert.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-ban",
+    "path": "lucide/shield-ban.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-check",
+    "path": "lucide/shield-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-close",
+    "path": "lucide/shield-close.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-ellipsis",
+    "path": "lucide/shield-ellipsis.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-half",
+    "path": "lucide/shield-half.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-minus",
+    "path": "lucide/shield-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-off",
+    "path": "lucide/shield-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-plus",
+    "path": "lucide/shield-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-question-mark",
+    "path": "lucide/shield-question-mark.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-question",
+    "path": "lucide/shield-question.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-user",
+    "path": "lucide/shield-user.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield-x",
+    "path": "lucide/shield-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shield",
+    "path": "lucide/shield.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ship-wheel",
+    "path": "lucide/ship-wheel.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ship",
+    "path": "lucide/ship.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shirt",
+    "path": "lucide/shirt.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shopping-bag",
+    "path": "lucide/shopping-bag.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shopping-basket",
+    "path": "lucide/shopping-basket.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shopping-cart",
+    "path": "lucide/shopping-cart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shovel",
+    "path": "lucide/shovel.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shower-head",
+    "path": "lucide/shower-head.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shredder",
+    "path": "lucide/shredder.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shrimp",
+    "path": "lucide/shrimp.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shrink",
+    "path": "lucide/shrink.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shrub",
+    "path": "lucide/shrub.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "shuffle",
+    "path": "lucide/shuffle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sidebar-close",
+    "path": "lucide/sidebar-close.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sidebar-open",
+    "path": "lucide/sidebar-open.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sidebar",
+    "path": "lucide/sidebar.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sigma-square",
+    "path": "lucide/sigma-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sigma",
+    "path": "lucide/sigma.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "signal-high",
+    "path": "lucide/signal-high.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "signal-low",
+    "path": "lucide/signal-low.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "signal-medium",
+    "path": "lucide/signal-medium.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "signal-zero",
+    "path": "lucide/signal-zero.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "signal",
+    "path": "lucide/signal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "signature",
+    "path": "lucide/signature.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "signpost-big",
+    "path": "lucide/signpost-big.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "signpost",
+    "path": "lucide/signpost.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "siren",
+    "path": "lucide/siren.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "skip-back",
+    "path": "lucide/skip-back.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "skip-forward",
+    "path": "lucide/skip-forward.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "skull",
+    "path": "lucide/skull.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "slack",
+    "path": "lucide/slack.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "slash-square",
+    "path": "lucide/slash-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "slash",
+    "path": "lucide/slash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "slice",
+    "path": "lucide/slice.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sliders-horizontal",
+    "path": "lucide/sliders-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sliders-vertical",
+    "path": "lucide/sliders-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sliders",
+    "path": "lucide/sliders.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "smartphone-charging",
+    "path": "lucide/smartphone-charging.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "smartphone-nfc",
+    "path": "lucide/smartphone-nfc.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "smartphone",
+    "path": "lucide/smartphone.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "smile-plus",
+    "path": "lucide/smile-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "smile",
+    "path": "lucide/smile.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "snail",
+    "path": "lucide/snail.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "snowflake",
+    "path": "lucide/snowflake.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "soap-dispenser-droplet",
+    "path": "lucide/soap-dispenser-droplet.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sofa",
+    "path": "lucide/sofa.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sort-asc",
+    "path": "lucide/sort-asc.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sort-desc",
+    "path": "lucide/sort-desc.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "soup",
+    "path": "lucide/soup.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "space",
+    "path": "lucide/space.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "spade",
+    "path": "lucide/spade.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sparkle",
+    "path": "lucide/sparkle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sparkles",
+    "path": "lucide/sparkles.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "speaker",
+    "path": "lucide/speaker.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "speech",
+    "path": "lucide/speech.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "spell-check-2",
+    "path": "lucide/spell-check-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "spell-check",
+    "path": "lucide/spell-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "spline-pointer",
+    "path": "lucide/spline-pointer.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "spline",
+    "path": "lucide/spline.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "split-square-horizontal",
+    "path": "lucide/split-square-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "split-square-vertical",
+    "path": "lucide/split-square-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "split",
+    "path": "lucide/split.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "spool",
+    "path": "lucide/spool.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "spotlight",
+    "path": "lucide/spotlight.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "spray-can",
+    "path": "lucide/spray-can.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sprout",
+    "path": "lucide/sprout.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-activity",
+    "path": "lucide/square-activity.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-arrow-down-left",
+    "path": "lucide/square-arrow-down-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-arrow-down-right",
+    "path": "lucide/square-arrow-down-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-arrow-down",
+    "path": "lucide/square-arrow-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-arrow-left",
+    "path": "lucide/square-arrow-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-arrow-out-down-left",
+    "path": "lucide/square-arrow-out-down-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-arrow-out-down-right",
+    "path": "lucide/square-arrow-out-down-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-arrow-out-up-left",
+    "path": "lucide/square-arrow-out-up-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-arrow-out-up-right",
+    "path": "lucide/square-arrow-out-up-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-arrow-right",
+    "path": "lucide/square-arrow-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-arrow-up-left",
+    "path": "lucide/square-arrow-up-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-arrow-up-right",
+    "path": "lucide/square-arrow-up-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-arrow-up",
+    "path": "lucide/square-arrow-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-asterisk",
+    "path": "lucide/square-asterisk.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-bottom-dashed-scissors",
+    "path": "lucide/square-bottom-dashed-scissors.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-chart-gantt",
+    "path": "lucide/square-chart-gantt.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-check-big",
+    "path": "lucide/square-check-big.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-check",
+    "path": "lucide/square-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-chevron-down",
+    "path": "lucide/square-chevron-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-chevron-left",
+    "path": "lucide/square-chevron-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-chevron-right",
+    "path": "lucide/square-chevron-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-chevron-up",
+    "path": "lucide/square-chevron-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-code",
+    "path": "lucide/square-code.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-dashed-bottom-code",
+    "path": "lucide/square-dashed-bottom-code.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-dashed-bottom",
+    "path": "lucide/square-dashed-bottom.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-dashed-kanban",
+    "path": "lucide/square-dashed-kanban.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-dashed-mouse-pointer",
+    "path": "lucide/square-dashed-mouse-pointer.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-dashed-top-solid",
+    "path": "lucide/square-dashed-top-solid.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-dashed",
+    "path": "lucide/square-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-divide",
+    "path": "lucide/square-divide.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-dot",
+    "path": "lucide/square-dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-equal",
+    "path": "lucide/square-equal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-function",
+    "path": "lucide/square-function.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-gantt-chart",
+    "path": "lucide/square-gantt-chart.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-kanban",
+    "path": "lucide/square-kanban.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-library",
+    "path": "lucide/square-library.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-m",
+    "path": "lucide/square-m.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-menu",
+    "path": "lucide/square-menu.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-minus",
+    "path": "lucide/square-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-mouse-pointer",
+    "path": "lucide/square-mouse-pointer.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-parking-off",
+    "path": "lucide/square-parking-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-parking",
+    "path": "lucide/square-parking.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-pause",
+    "path": "lucide/square-pause.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-pen",
+    "path": "lucide/square-pen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-percent",
+    "path": "lucide/square-percent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-pi",
+    "path": "lucide/square-pi.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-pilcrow",
+    "path": "lucide/square-pilcrow.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-play",
+    "path": "lucide/square-play.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-plus",
+    "path": "lucide/square-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-power",
+    "path": "lucide/square-power.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-radical",
+    "path": "lucide/square-radical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-round-corner",
+    "path": "lucide/square-round-corner.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-scissors",
+    "path": "lucide/square-scissors.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-sigma",
+    "path": "lucide/square-sigma.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-slash",
+    "path": "lucide/square-slash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-split-horizontal",
+    "path": "lucide/square-split-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-split-vertical",
+    "path": "lucide/square-split-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-square",
+    "path": "lucide/square-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-stack",
+    "path": "lucide/square-stack.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-star",
+    "path": "lucide/square-star.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-stop",
+    "path": "lucide/square-stop.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-terminal",
+    "path": "lucide/square-terminal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-user-round",
+    "path": "lucide/square-user-round.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-user",
+    "path": "lucide/square-user.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square-x",
+    "path": "lucide/square-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "square",
+    "path": "lucide/square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "squares-exclude",
+    "path": "lucide/squares-exclude.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "squares-intersect",
+    "path": "lucide/squares-intersect.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "squares-subtract",
+    "path": "lucide/squares-subtract.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "squares-unite",
+    "path": "lucide/squares-unite.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "squircle-dashed",
+    "path": "lucide/squircle-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "squircle",
+    "path": "lucide/squircle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "squirrel",
+    "path": "lucide/squirrel.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "stamp",
+    "path": "lucide/stamp.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "star-half",
+    "path": "lucide/star-half.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "star-off",
+    "path": "lucide/star-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "star",
+    "path": "lucide/star.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "stars",
+    "path": "lucide/stars.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "step-back",
+    "path": "lucide/step-back.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "step-forward",
+    "path": "lucide/step-forward.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "stethoscope",
+    "path": "lucide/stethoscope.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sticker",
+    "path": "lucide/sticker.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sticky-note",
+    "path": "lucide/sticky-note.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "stop-circle",
+    "path": "lucide/stop-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "store",
+    "path": "lucide/store.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "stretch-horizontal",
+    "path": "lucide/stretch-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "stretch-vertical",
+    "path": "lucide/stretch-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "strikethrough",
+    "path": "lucide/strikethrough.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "subscript",
+    "path": "lucide/subscript.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "subtitles",
+    "path": "lucide/subtitles.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sun-dim",
+    "path": "lucide/sun-dim.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sun-medium",
+    "path": "lucide/sun-medium.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sun-moon",
+    "path": "lucide/sun-moon.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sun-snow",
+    "path": "lucide/sun-snow.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sun",
+    "path": "lucide/sun.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sunrise",
+    "path": "lucide/sunrise.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sunset",
+    "path": "lucide/sunset.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "superscript",
+    "path": "lucide/superscript.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "swatch-book",
+    "path": "lucide/swatch-book.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "swiss-franc",
+    "path": "lucide/swiss-franc.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "switch-camera",
+    "path": "lucide/switch-camera.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "sword",
+    "path": "lucide/sword.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "swords",
+    "path": "lucide/swords.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "syringe",
+    "path": "lucide/syringe.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "table-2",
+    "path": "lucide/table-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "table-cells-merge",
+    "path": "lucide/table-cells-merge.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "table-cells-split",
+    "path": "lucide/table-cells-split.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "table-columns-split",
+    "path": "lucide/table-columns-split.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "table-config",
+    "path": "lucide/table-config.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "table-of-contents",
+    "path": "lucide/table-of-contents.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "table-properties",
+    "path": "lucide/table-properties.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "table-rows-split",
+    "path": "lucide/table-rows-split.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "table",
+    "path": "lucide/table.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tablet-smartphone",
+    "path": "lucide/tablet-smartphone.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tablet",
+    "path": "lucide/tablet.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tablets",
+    "path": "lucide/tablets.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tag",
+    "path": "lucide/tag.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tags",
+    "path": "lucide/tags.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tally-1",
+    "path": "lucide/tally-1.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tally-2",
+    "path": "lucide/tally-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tally-3",
+    "path": "lucide/tally-3.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tally-4",
+    "path": "lucide/tally-4.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tally-5",
+    "path": "lucide/tally-5.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tangent",
+    "path": "lucide/tangent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "target",
+    "path": "lucide/target.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "telescope",
+    "path": "lucide/telescope.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tent-tree",
+    "path": "lucide/tent-tree.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tent",
+    "path": "lucide/tent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "terminal-square",
+    "path": "lucide/terminal-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "terminal",
+    "path": "lucide/terminal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "test-tube-2",
+    "path": "lucide/test-tube-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "test-tube-diagonal",
+    "path": "lucide/test-tube-diagonal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "test-tube",
+    "path": "lucide/test-tube.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "test-tubes",
+    "path": "lucide/test-tubes.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text-align-center",
+    "path": "lucide/text-align-center.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text-align-end",
+    "path": "lucide/text-align-end.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text-align-justify",
+    "path": "lucide/text-align-justify.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text-align-start",
+    "path": "lucide/text-align-start.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text-cursor-input",
+    "path": "lucide/text-cursor-input.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text-cursor",
+    "path": "lucide/text-cursor.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text-initial",
+    "path": "lucide/text-initial.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text-quote",
+    "path": "lucide/text-quote.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text-search",
+    "path": "lucide/text-search.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text-select",
+    "path": "lucide/text-select.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text-selection",
+    "path": "lucide/text-selection.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text-wrap",
+    "path": "lucide/text-wrap.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "text",
+    "path": "lucide/text.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "theater",
+    "path": "lucide/theater.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "thermometer-snowflake",
+    "path": "lucide/thermometer-snowflake.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "thermometer-sun",
+    "path": "lucide/thermometer-sun.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "thermometer",
+    "path": "lucide/thermometer.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "thumbs-down",
+    "path": "lucide/thumbs-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "thumbs-up",
+    "path": "lucide/thumbs-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ticket-check",
+    "path": "lucide/ticket-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ticket-minus",
+    "path": "lucide/ticket-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ticket-percent",
+    "path": "lucide/ticket-percent.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ticket-plus",
+    "path": "lucide/ticket-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ticket-slash",
+    "path": "lucide/ticket-slash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ticket-x",
+    "path": "lucide/ticket-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ticket",
+    "path": "lucide/ticket.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tickets-plane",
+    "path": "lucide/tickets-plane.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tickets",
+    "path": "lucide/tickets.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "timer-off",
+    "path": "lucide/timer-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "timer-reset",
+    "path": "lucide/timer-reset.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "timer",
+    "path": "lucide/timer.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "toggle-left",
+    "path": "lucide/toggle-left.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "toggle-right",
+    "path": "lucide/toggle-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "toilet",
+    "path": "lucide/toilet.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tool-case",
+    "path": "lucide/tool-case.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tornado",
+    "path": "lucide/tornado.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "torus",
+    "path": "lucide/torus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "touchpad-off",
+    "path": "lucide/touchpad-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "touchpad",
+    "path": "lucide/touchpad.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tower-control",
+    "path": "lucide/tower-control.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "toy-brick",
+    "path": "lucide/toy-brick.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tractor",
+    "path": "lucide/tractor.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "traffic-cone",
+    "path": "lucide/traffic-cone.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "train-front-tunnel",
+    "path": "lucide/train-front-tunnel.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "train-front",
+    "path": "lucide/train-front.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "train-track",
+    "path": "lucide/train-track.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "train",
+    "path": "lucide/train.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tram-front",
+    "path": "lucide/tram-front.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "transgender",
+    "path": "lucide/transgender.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "trash-2",
+    "path": "lucide/trash-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "trash",
+    "path": "lucide/trash.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tree-deciduous",
+    "path": "lucide/tree-deciduous.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tree-palm",
+    "path": "lucide/tree-palm.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tree-pine",
+    "path": "lucide/tree-pine.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "trees",
+    "path": "lucide/trees.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "trello",
+    "path": "lucide/trello.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "trending-down",
+    "path": "lucide/trending-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "trending-up-down",
+    "path": "lucide/trending-up-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "trending-up",
+    "path": "lucide/trending-up.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "triangle-alert",
+    "path": "lucide/triangle-alert.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "triangle-dashed",
+    "path": "lucide/triangle-dashed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "triangle-right",
+    "path": "lucide/triangle-right.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "triangle",
+    "path": "lucide/triangle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "trophy",
+    "path": "lucide/trophy.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "truck-electric",
+    "path": "lucide/truck-electric.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "truck",
+    "path": "lucide/truck.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "turkish-lira",
+    "path": "lucide/turkish-lira.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "turntable",
+    "path": "lucide/turntable.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "turtle",
+    "path": "lucide/turtle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tv-2",
+    "path": "lucide/tv-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tv-minimal-play",
+    "path": "lucide/tv-minimal-play.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tv-minimal",
+    "path": "lucide/tv-minimal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "tv",
+    "path": "lucide/tv.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "twitch",
+    "path": "lucide/twitch.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "twitter",
+    "path": "lucide/twitter.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "type-outline",
+    "path": "lucide/type-outline.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "type",
+    "path": "lucide/type.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "umbrella-off",
+    "path": "lucide/umbrella-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "umbrella",
+    "path": "lucide/umbrella.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "underline",
+    "path": "lucide/underline.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "undo-2",
+    "path": "lucide/undo-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "undo-dot",
+    "path": "lucide/undo-dot.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "undo",
+    "path": "lucide/undo.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "unfold-horizontal",
+    "path": "lucide/unfold-horizontal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "unfold-vertical",
+    "path": "lucide/unfold-vertical.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "ungroup",
+    "path": "lucide/ungroup.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "university",
+    "path": "lucide/university.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "unlink-2",
+    "path": "lucide/unlink-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "unlink",
+    "path": "lucide/unlink.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "unlock-keyhole",
+    "path": "lucide/unlock-keyhole.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "unlock",
+    "path": "lucide/unlock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "unplug",
+    "path": "lucide/unplug.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "upload-cloud",
+    "path": "lucide/upload-cloud.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "upload",
+    "path": "lucide/upload.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "usb",
+    "path": "lucide/usb.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-2",
+    "path": "lucide/user-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-check-2",
+    "path": "lucide/user-check-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-check",
+    "path": "lucide/user-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-circle-2",
+    "path": "lucide/user-circle-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-circle",
+    "path": "lucide/user-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-cog-2",
+    "path": "lucide/user-cog-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-cog",
+    "path": "lucide/user-cog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-lock",
+    "path": "lucide/user-lock.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-minus-2",
+    "path": "lucide/user-minus-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-minus",
+    "path": "lucide/user-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-pen",
+    "path": "lucide/user-pen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-plus-2",
+    "path": "lucide/user-plus-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-plus",
+    "path": "lucide/user-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-round-check",
+    "path": "lucide/user-round-check.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-round-cog",
+    "path": "lucide/user-round-cog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-round-minus",
+    "path": "lucide/user-round-minus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-round-pen",
+    "path": "lucide/user-round-pen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-round-plus",
+    "path": "lucide/user-round-plus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-round-search",
+    "path": "lucide/user-round-search.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-round-x",
+    "path": "lucide/user-round-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-round",
+    "path": "lucide/user-round.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-search",
+    "path": "lucide/user-search.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-square-2",
+    "path": "lucide/user-square-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-square",
+    "path": "lucide/user-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-star",
+    "path": "lucide/user-star.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-x-2",
+    "path": "lucide/user-x-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user-x",
+    "path": "lucide/user-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "user",
+    "path": "lucide/user.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "users-2",
+    "path": "lucide/users-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "users-round",
+    "path": "lucide/users-round.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "users",
+    "path": "lucide/users.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "utensils-crossed",
+    "path": "lucide/utensils-crossed.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "utensils",
+    "path": "lucide/utensils.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "utility-pole",
+    "path": "lucide/utility-pole.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "variable",
+    "path": "lucide/variable.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "vault",
+    "path": "lucide/vault.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "vector-square",
+    "path": "lucide/vector-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "vegan",
+    "path": "lucide/vegan.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "venetian-mask",
+    "path": "lucide/venetian-mask.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "venus-and-mars",
+    "path": "lucide/venus-and-mars.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "venus",
+    "path": "lucide/venus.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "verified",
+    "path": "lucide/verified.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "vibrate-off",
+    "path": "lucide/vibrate-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "vibrate",
+    "path": "lucide/vibrate.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "video-off",
+    "path": "lucide/video-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "video",
+    "path": "lucide/video.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "videotape",
+    "path": "lucide/videotape.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "view",
+    "path": "lucide/view.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "voicemail",
+    "path": "lucide/voicemail.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "volleyball",
+    "path": "lucide/volleyball.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "volume-1",
+    "path": "lucide/volume-1.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "volume-2",
+    "path": "lucide/volume-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "volume-off",
+    "path": "lucide/volume-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "volume-x",
+    "path": "lucide/volume-x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "volume",
+    "path": "lucide/volume.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "vote",
+    "path": "lucide/vote.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wallet-2",
+    "path": "lucide/wallet-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wallet-cards",
+    "path": "lucide/wallet-cards.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wallet-minimal",
+    "path": "lucide/wallet-minimal.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wallet",
+    "path": "lucide/wallet.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wallpaper",
+    "path": "lucide/wallpaper.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wand-2",
+    "path": "lucide/wand-2.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wand-sparkles",
+    "path": "lucide/wand-sparkles.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wand",
+    "path": "lucide/wand.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "warehouse",
+    "path": "lucide/warehouse.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "washing-machine",
+    "path": "lucide/washing-machine.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "watch",
+    "path": "lucide/watch.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "waves-ladder",
+    "path": "lucide/waves-ladder.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "waves",
+    "path": "lucide/waves.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "waypoints",
+    "path": "lucide/waypoints.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "webcam",
+    "path": "lucide/webcam.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "webhook-off",
+    "path": "lucide/webhook-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "webhook",
+    "path": "lucide/webhook.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "weight",
+    "path": "lucide/weight.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wheat-off",
+    "path": "lucide/wheat-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wheat",
+    "path": "lucide/wheat.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "whole-word",
+    "path": "lucide/whole-word.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wifi-cog",
+    "path": "lucide/wifi-cog.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wifi-high",
+    "path": "lucide/wifi-high.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wifi-low",
+    "path": "lucide/wifi-low.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wifi-off",
+    "path": "lucide/wifi-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wifi-pen",
+    "path": "lucide/wifi-pen.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wifi-sync",
+    "path": "lucide/wifi-sync.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wifi-zero",
+    "path": "lucide/wifi-zero.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wifi",
+    "path": "lucide/wifi.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wind-arrow-down",
+    "path": "lucide/wind-arrow-down.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wind",
+    "path": "lucide/wind.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wine-off",
+    "path": "lucide/wine-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wine",
+    "path": "lucide/wine.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "workflow",
+    "path": "lucide/workflow.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "worm",
+    "path": "lucide/worm.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wrap-text",
+    "path": "lucide/wrap-text.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "wrench",
+    "path": "lucide/wrench.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "x-circle",
+    "path": "lucide/x-circle.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "x-octagon",
+    "path": "lucide/x-octagon.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "x-square",
+    "path": "lucide/x-square.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "x",
+    "path": "lucide/x.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "youtube",
+    "path": "lucide/youtube.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "zap-off",
+    "path": "lucide/zap-off.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "zap",
+    "path": "lucide/zap.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "zoom-in",
+    "path": "lucide/zoom-in.svg",
+    "source": "Lucide"
+  },
+  {
+    "name": "zoom-out",
+    "path": "lucide/zoom-out.svg",
+    "source": "Lucide"
+  }
+]
