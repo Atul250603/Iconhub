@@ -1,3 +1,4 @@
+import { getSiteUrl } from "@/constants/url";
 import type { Metadata } from "next";
 
 export async function generateMetadata({ 
@@ -14,7 +15,7 @@ export async function generateMetadata({
     openGraph: {
       title: `Customize ${id} Icon - IconHub`,
       description: `Customize and export the ${id} icon to your project.`,
-      images: ["/og-image.png"],
+      images: [`${getSiteUrl()}/og-image.png`],
     },
   };
 }

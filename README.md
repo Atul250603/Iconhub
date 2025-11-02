@@ -25,8 +25,8 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/icon-hub.git
-cd icon-hub
+git clone https://github.com/Atul250603/iconhub.git
+cd iconhub
 
 # Install dependencies
 pnpm install
@@ -48,7 +48,26 @@ Open [http://localhost:3000](http://localhost:3000) to see the result.
 | `pnpm build` | Build for production |
 | `pnpm start` | Start production server |
 | `pnpm lint` | Run ESLint |
-| `pnpm generate-overall-index` | Generate icon index |
+| `pnpm generate-registry` | Generate registry index for an icon library |
+| `pnpm generate-overall-index` | Generate overall icon index from all registries |
+
+### Icon Index Generation
+
+**Icon Registry** (`generate-registry`):
+- Creates a `registry.json` file for each icon library folder
+- Scans SVG files in a library directory (e.g., `public/lucide/`)
+- Generates a registry with icon names, paths, and source information
+- Run this when adding a new icon library or updating icons in a library
+
+**Overall Icon Index** (`generate-overall-index`):
+- Merges all `registry.json` files from all icon libraries
+- Creates a single `icons-index.json` file used by the application
+- Must be run after generating or updating registries
+- This is the main index file that powers the icon browsing and search
+
+**Workflow**: When adding new icons or libraries:
+1. Run `pnpm generate-registry` for each library you've updated
+2. Run `pnpm generate-overall-index` to merge all registries
 
 ## 🛠️ Tech Stack
 
@@ -93,7 +112,7 @@ MIT License - See [LICENSE](LICENSE) file for details.
 ## 🙏 Acknowledgments
 
 - [Lucide](https://lucide.dev/) for the icon collection
-- [Radix UI](https://www.radix-ui.com/) for components
+- [Shadcn](https://ui.shadcn.com/) for components
 - [Next.js](https://nextjs.org/) team
 
 ---

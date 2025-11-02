@@ -1,3 +1,4 @@
+import { getSiteUrl } from "@/constants/url";
 import BuiltFor from "./components/Landing/BuiltFor";
 import Cta from "./components/Landing/Cta";
 import Features from "./components/Landing/Features";
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Iconhub - Customize & Export Icons in Seconds",
     description: "Browse thousands of icons, customize every detail, and export in seconds.",
-    images: ["/og-image.png"],
+    images: [`${getSiteUrl()}/og-image.png`],
   },
 };
 

@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     description: "Browse thousands of icons, customize every detail, and export in seconds.",
     images: [
       {
-        url: "/og-image.png",
+        url: `${getSiteUrl()}/og-image.png`,
         width: 1200,
         height: 630,
         alt: "Iconhub - Customize & Export Icons",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Iconhub - Customize & Export Icons in Seconds",
     description: "Browse thousands of icons, customize every detail, and export in seconds.",
-    images: ["/og-image.png"],
+    images: [`${getSiteUrl()}/og-image.png`],
     creator: "@AtulGoyal383989",
   },
   robots: {

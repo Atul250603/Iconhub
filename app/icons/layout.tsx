@@ -1,3 +1,4 @@
+import { getSiteUrl } from "@/constants/url";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -6,7 +7,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Browse Icons - Iconhub",
     description: "Browse and search through thousands of customizable icons.",
-    images: ["/og-image.png"],
+    images: [`${getSiteUrl()}/og-image.png`],
   },
 };
 

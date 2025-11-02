@@ -7,5 +7,5 @@ export function getSiteUrl(): string {
     return `https://${process.env.VERCEL_URL}`;
   }
   
-  return 'https://iconhub.vercel.app';
+  return 'https://icon-hub.vercel.app';
 }
