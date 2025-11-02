@@ -4,7 +4,7 @@ import dynamic from 'next/dynamic';
 
 const Picker = dynamic(() => import('react-best-gradient-color-picker'), { ssr: false }); // recommended
 
-export default function CustomColorPicker({ color, setColor }: { color: string, setColor: (c: string)=>void }) {
+export default function CustomColorPicker({ color, setColor}: { color: string, setColor: (c: string)=>void }) {
   return (
     <div className="rbgcp-wrapper">
       <DropdownMenu>
@@ -14,6 +14,7 @@ export default function CustomColorPicker({ color, setColor }: { color: string, 
         </DropdownMenuTrigger>
         <DropdownMenuContent
           className='p-2'
+          side="left"
         >
           <Picker
             value={color}
