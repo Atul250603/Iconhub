@@ -71,7 +71,7 @@ export default function SeeTheDiff() {
                 </div>
                 <div className={cn(
                     "relative overflow-hidden",
-                    isMobile ? "w-[160px] h-[160px]" : "w-[200px] h-[200px]"
+                    isMobile ? "w-[100px] h-[100px]" : "w-[200px] h-[200px]"
                 )}>
                     <motion.div
                         className="flex flex-col h-full"
@@ -90,13 +90,13 @@ export default function SeeTheDiff() {
                                     key={index}
                                     className={cn(
                                         "flex items-center justify-center flex-shrink-0 w-full h-full",
-                                        isMobile ? "min-w-[140px] min-h-[140px]" : "min-w-[200px] min-h-[200px]"
+                                        isMobile ? "min-w-[100px] min-h-[100px]" : "min-w-[200px] min-h-[200px]"
                                     )}
                                 >
                                     <IconComponent 
                                         className={cn(
                                             "transition-opacity duration-300",
-                                            isMobile ? "w-[140px] h-[140px]" : "w-[200px] h-[200px]"
+                                            isMobile ? "w-[100px] h-[100px]" : "w-[200px] h-[200px]"
                                         )} 
                                         strokeWidth={item.strokeWidth}
                                     />
@@ -120,7 +120,7 @@ export default function SeeTheDiff() {
                 </div>
                 <div className={cn(
                     "relative overflow-hidden",
-                    isMobile ? "w-[140px] h-[140px]" : "w-[200px] h-[200px]"
+                    isMobile ? "w-[100px] h-[100px]" : "w-[200px] h-[200px]"
                 )}>
                     <motion.div
                         className="flex flex-col h-full"
@@ -137,7 +137,7 @@ export default function SeeTheDiff() {
                                 key={index}
                                 className={cn(
                                     "flex items-center justify-center flex-shrink-0 w-full h-full",
-                                    isMobile ? "min-w-[140px] min-h-[140px]" : "min-w-[200px] min-h-[200px]"
+                                    isMobile ? "min-w-[100px] min-h-[100px]" : "min-w-[200px] min-h-[200px]"
                                 )}
                             >
                                 <Image 

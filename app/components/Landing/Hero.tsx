@@ -3,11 +3,10 @@ import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import Link from "next/link";
 import { motion } from "motion/react";
-import { useTheme } from "next-themes";
+import { useThemeSafe } from "@/hooks/useThemeSafe";
 
 export default function Hero() {
-  const theme = useTheme();
-  const isDark = theme?.resolvedTheme === "dark";
+  const { isDark } = useThemeSafe();
   return (
     <motion.div
       initial={{ opacity: 0, y: 10 }}

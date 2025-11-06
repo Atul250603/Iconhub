@@ -1,7 +1,12 @@
+"use client";
+import { Separator } from "@/components/ui/separator";
+import { useThemeSafe } from "@/hooks/useThemeSafe";
 import Image from "next/image";
 import Link from "next/link";
 
 export default function Footer() {
+  const { isDark } = useThemeSafe();
+
   return (
     <div className="mt-20 border-t">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-7 justify-items-center md:justify-items-normal">
@@ -38,6 +43,56 @@ export default function Footer() {
                 <Link href="https://quizzify.site" target="_blank" className="text-center md:text-left">Quizzify</Link>
             </div>
         </div>
+      </div>
+    </div>
+    <Separator className="my-4"/>
+    <div className="flex items-center gap-4 flex-wrap">
+      <div className="w-max">
+        {
+          isDark ? (
+            <a href="https://findly.tools/iconhub?utm_source=iconhub" target="_blank">
+              <img 
+                src="https://findly.tools/badges/findly-tools-badge-dark.svg" 
+                alt="Featured on findly.tools" 
+                style={{ width: "auto", height: "40px" }}
+              />
+            </a>
+          ) : (
+            <a href="https://findly.tools/iconhub?utm_source=iconhub" target="_blank">
+              <img 
+                src="https://findly.tools/badges/findly-tools-badge-light.svg" 
+                alt="Featured on findly.tools" 
+                style={{ width: "auto", height: "40px" }}
+              />
+            </a>
+          )
+        }
+      </div>
+      <div className="w-max">
+        {
+          isDark ? (
+            <a href="https://twelve.tools" target="_blank">
+              <img src="https://twelve.tools/badge0-dark.svg" alt="Featured on Twelve Tools" style={{ width: "auto", height: "40px" }}/>
+            </a>
+          ) : (
+            <a href="https://twelve.tools" target="_blank">
+              <img src="https://twelve.tools/badge0-white.svg" alt="Featured on Twelve Tools" style={{ width: "auto", height: "40px" }}/>
+            </a>
+          )
+        }
+      </div>
+      <div className="w-max">
+        {
+          isDark ? (
+            <a href="https://startupfa.me/s/iconhub?utm_source=icon-hub.vercel.app" target="_blank">
+              <img src="https://startupfa.me/badges/featured/dark.webp" alt="Iconhub - Featured on Startup Fame" style={{ width: "auto", height: "40px" }} />
+            </a>
+          ) : (
+            <a href="https://startupfa.me/s/iconhub?utm_source=icon-hub.vercel.app" target="_blank">
+              <img src="https://startupfa.me/badges/featured/light.webp" alt="Iconhub - Featured on Startup Fame" style={{ width: "auto", height: "40px" }} />
+            </a>
+          )
+        }
       </div>
     </div>
     </div>
