@@ -159,7 +159,7 @@ export default function BackgroundConfig({ svgConfig, setSvgConfig, viewBoxDimen
           </div>
         </div>
       </div>
-      <div className="text-sm text-muted-foreground">
+      <div className="text-sm text-muted-foreground border p-2 rounded-md">
         <span className="font-bold">Note :</span> These settings will be applied to the background of the icon not the shapes inside it.
       </div>
     </motion.div>

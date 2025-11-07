@@ -77,6 +77,10 @@
   --sidebar-accent-foreground: oklch(0.205 0 0);
   --sidebar-border: oklch(0.922 0 0);
   --sidebar-ring: oklch(0.708 0 0);
+  --bg-checkerboard: linear-gradient(45deg, #e0e0e0 25%, transparent 25%),
+  linear-gradient(-45deg, #e0e0e0 25%, transparent 25%),
+  linear-gradient(45deg, transparent 75%, #e0e0e0 75%),
+  linear-gradient(-45deg, transparent 75%, #e0e0e0 75%);
 }
 
 .dark {
@@ -111,6 +115,10 @@
   --sidebar-accent-foreground: oklch(0.985 0 0);
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.556 0 0);
+  --bg-checkerboard: linear-gradient(45deg, #e0e0e0 25%, transparent 25%),
+  linear-gradient(-45deg, #e0e0e0 25%, transparent 25%),
+  linear-gradient(45deg, transparent 75%, #e0e0e0 75%),
+  linear-gradient(-45deg, transparent 75%, #e0e0e0 75%);
 }
 
 @layer base {
@@ -130,6 +138,12 @@
     background-size: 20px 20px;
   }
 
+  .bg-checkerboard {
+    background-image: var(--bg-checkerboard);
+    background-size: 8px 8px;
+    background-position: 0 0, 0 4px, 4px -4px, -4px 0px;
+  }
+
   svg .hover-outline {
     stroke: hsl(221, 83%, 53%);
     stroke-width: 2;
@@ -137,5 +151,25 @@
     filter: drop-shadow(0 0 1px hsla(221, 83%, 53%, 0.9));
     cursor: pointer;
     transition: all 0.2s ease-in-out;
+  }
+
+  [id^="rbgcp-preview-"] {
+    border: 1px solid var(--border) !important;
+  }
+
+  .show-checkerboard [id^="rbgcp-preview-"] {
+    background-image: var(--bg-checkerboard) !important;
+    background-size: 8px 8px !important;
+    background-position: 0 0, 0 4px, 4px -4px, -4px 0px !important;
+  }
+
+  [id^="rbgcp-presets-wrapper"] > div > [id^="rbgcp-preset-"] {
+    border: 1px solid var(--border) !important;
+  }
+
+  [id^="rbgcp-presets-wrapper"] > div > [id^="rbgcp-preset-0"] {
+    background-image: var(--bg-checkerboard) !important;
+    background-size: 8px 8px !important;
+    background-position: 0 0, 0 4px, 4px -4px, -4px 0px !important;
   }
 }

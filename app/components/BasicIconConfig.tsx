@@ -160,7 +160,7 @@ export default function BasicIconConfig({ svgConfig, setSvgConfig }: { svgConfig
           </div>
         </div>
       </div>
-      <div className="text-sm text-muted-foreground">
+      <div className="text-sm text-muted-foreground border p-2 rounded-md">
         <span className="font-bold">Note :</span> You can customize the individual elements of the icon by hovering over the icon and selecting the element you want to edit.
       </div>
     </motion.div>
