@@ -39,6 +39,7 @@ const generateRegistryIndex = (libName: string, source: string) => {
       const name = file.replace('.svg', '');
   
       icons.push({
+        id: libName + '-' + name,
         name,
         path : path.join(libName, file),
         source : source[0].toUpperCase() + source.slice(1).toLowerCase()

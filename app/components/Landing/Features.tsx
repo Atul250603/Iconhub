@@ -7,7 +7,7 @@ export default function Features() {
   const features = [
     {
       title: "Massive Icon Library",
-      description: "Explore thousands of premium icons sourced from popular libraries like Lucide, etc.",
+      description: "Explore thousands of premium icons sourced from popular libraries like Lucide, Tabler, etc.",
       icon: Library
     },
     {

@@ -18,7 +18,7 @@ export default function IconDescription({ icon }: { icon: IconElement }) {
             <div className="my-3 flex items-center gap-2">
                 <Export fileName={icon.name} />
                 <Button>
-                    <Link href={`icons/${icon.name}`}>
+                    <Link href={`icons/${icon.id}`}>
                         Customize
                     </Link>
                 </Button>

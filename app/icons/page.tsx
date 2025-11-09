@@ -9,6 +9,7 @@ import Fuse from 'fuse.js';
 import { Spinner } from '@/components/ui/spinner';
 import NotFound from '../components/NotFound';
 import { motion } from 'motion/react';
+import { Search } from 'lucide-react';
 
 export default function IconsPage() {
   const [inputValue, setInputValue] = useState('');
@@ -81,17 +82,21 @@ export default function IconsPage() {
       <div className='text-base text-muted-foreground mb-4'>
         Search for an icon and click on it to customize and export it.
       </div>
-      <Input
-        placeholder='Search for an icon'
-        value={inputValue}
-        onChange={(e) => handleInputChange(e.target.value)}
-      />
+      <div className="relative">
+        <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground pointer-events-none" />
+        <Input
+          placeholder='Search for an icon'
+          value={inputValue}
+          onChange={(e) => handleInputChange(e.target.value)}
+          className="pl-9" // Add left padding to make room for icon
+        />
+      </div>
       
       {
         displayedIcons.length > 0 ? <div className='grid grid-cols-[repeat(auto-fill,minmax(56px,1fr))] gap-[8px] mt-4'>
           {displayedIcons.map((icon, index) => (
             <div
-              key={icon.name}
+              key={icon.id}
               ref={index === displayedIcons.length - 1 ? ref : null}
             >
               <IconCard icon={icon} />

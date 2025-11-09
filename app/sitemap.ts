@@ -23,7 +23,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // All icon pages
   const iconPages: MetadataRoute.Sitemap = iconsIndex.map((icon) => ({
-    url: `${baseUrl}/icons/${icon.name}`,
+    url: `${baseUrl}/icons/${icon.id}`,
     lastModified: new Date(),
     changeFrequency: 'monthly',
     priority: 0.7,

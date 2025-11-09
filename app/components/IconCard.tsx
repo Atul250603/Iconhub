@@ -21,7 +21,7 @@ export default React.memo(function IconCard({ icon } : { icon: IconElement }) {
     <Tooltip>
       <TooltipTrigger asChild>
             <Link
-              href={`icons/${icon.name}`}
+              href={`icons/${icon.id}`}
               className="w-[56px] h-[56px] bg-neutral-100 dark:bg-neutral-200 rounded-md flex items-center justify-center p-3 hover:bg-neutral-200 dark:hover:bg-neutral-300 transition-colors duration-200 cursor-pointer"
             >
               <Image

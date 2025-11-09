@@ -1,4 +1,5 @@
 export interface IconElement {
+  id: string;
   name: string;
   path: string;
   source: string;

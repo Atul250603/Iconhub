@@ -1,15 +1,15 @@
 
-import iconsIndex from '@/utils/icons-index.json';
 import path from 'path';
 import fs from 'fs';
 import IconCanvas from '@/app/components/IconCanvas';
 import { handleError } from '@/utils/logs/error';
 import { redirect } from 'next/navigation';
+import { getIconById } from '@/utils/icon-lookup';
 
 
 export default async function IconPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
-  const icon = iconsIndex.find((icon) => icon.name === id);
+  const icon = getIconById(id);
   if (!icon) redirect('/not-found');
 
   const svgPath = path.join(process.cwd(), 'public', icon.path);
