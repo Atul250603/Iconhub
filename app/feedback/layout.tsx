@@ -1,6 +1,5 @@
 import { getSiteUrl } from "@/constants/url";
 import { Metadata } from "next";
-import ToasterProvider from "@/Providers/Toaster";
 
 export const metadata: Metadata = {
     title: "Feedback",
@@ -20,7 +19,6 @@ export default function FeedbackLayout({
 }) {
     return (
         <div className="h-full w-full max-w-7xl mx-auto p-4">
-            <ToasterProvider />
             {children}
         </div>
     )

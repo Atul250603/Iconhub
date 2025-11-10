@@ -6,6 +6,7 @@ import { ThemeProvider } from "./components/ThemeProvider";
 import { getSiteUrl } from "@/constants/url";
 import Script from "next/script";
 import { Analytics } from "@vercel/analytics/next"
+import ToasterProvider from "@/Providers/Toaster";
 
 
 const geistSans = Geist({
@@ -129,6 +130,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <Analytics />
+        <ToasterProvider />
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
