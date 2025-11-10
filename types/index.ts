@@ -55,3 +55,8 @@ export interface ViewBoxDimensions {
   width: number;
   height: number;
 }
+
+export interface FeedbackFlagsAtom {
+  hasSubmitted: boolean;
+  lastFeedbackDate: string | null;
+}

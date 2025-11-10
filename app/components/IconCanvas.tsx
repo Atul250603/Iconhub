@@ -9,7 +9,7 @@ import Export from './Export';
 import { Button } from '@/components/ui/button';
 import Link from 'next/link';
 import { ArrowLeftIcon } from 'lucide-react';
-import { Toaster } from 'toastrr';
+import ToasterProvider from '@/Providers/Toaster';
 import { trackIconViewed } from '@/utils/analytics';
 
 export default function IconPage({ svgContent, icon }: { svgContent: string, icon: string }) {
@@ -47,11 +47,7 @@ export default function IconPage({ svgContent, icon }: { svgContent: string, ico
 
   return (
     <div className='flex h-full md:flex-row flex-col'>
-      <Toaster
-        closeButton={false}
-        duration={2000}
-        position='top-center'
-      />
+      <ToasterProvider />
       <div className='lg:w-[70%] md:w-1/2 w-full md:h-full min-h-[50vh] bg-muted bg-grid flex items-center justify-center relative dark:bg-neutral-700'>
         <div className='absolute top-2 right-2 w-max'>
           <Export fileName={icon} className='dark:bg-secondary' />

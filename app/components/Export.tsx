@@ -3,10 +3,13 @@ import { ButtonGroup } from "@/components/ui/button-group";
 import { DropdownMenu, DropdownMenuItem, DropdownMenuTrigger, DropdownMenuContent } from "@/components/ui/dropdown-menu";
 import { trackIconExported } from "@/utils/analytics";
 import { copySVGToClipboard, downloadAsPNG, downloadSVG } from "@/utils/svg/download";
+import { useSetAtom } from "jotai";
 import { ChevronDown } from "lucide-react";
 import { toast } from "toastrr";
 
 export default function Export({ fileName = "icon", className }: { fileName?: string, className?: string }) {
+
+
   const handleCopySVG = async () => {
     const success = await copySVGToClipboard();
     if (success) {

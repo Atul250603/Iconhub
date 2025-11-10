@@ -32,6 +32,7 @@ export default function Footer() {
             <div className="flex flex-col">
                 <Link href="/" className="text-center md:text-left">Home</Link>
                 <Link href="/icons" className="text-center md:text-left">Icons</Link>
+                <Link href="/feedback" className="text-center md:text-left">Feedback</Link>
             </div>
         </div>
         <div>

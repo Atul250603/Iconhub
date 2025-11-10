@@ -35,6 +35,10 @@ export const defaultSvgConfig: SvgConfig = {
 
 export const myID = 'iconhub'
 export const canvasID = `${myID}-canvas` as const
+export const localStorageKeys = {
+  submitted: "hasSubmittedFeedback",
+  lastFeedbackDate: "lastFeedbackDate"
+}
 
 export const colorPresets = [
   'rgba(1,1,1, 0)',

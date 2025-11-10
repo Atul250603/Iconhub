@@ -1,5 +1,6 @@
 import { getSiteUrl } from "@/constants/url";
 import type { Metadata } from "next";
+import Feedback from "../components/Feedback";  
 
 export const metadata: Metadata = {
   title: "Browse Icons",
@@ -11,10 +12,16 @@ export const metadata: Metadata = {
   },
 };
 
+
 export default function IconsLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  return (
+      <div className="relative h-full">
+        {children}
+        <Feedback />
+      </div>
+  )
 }
