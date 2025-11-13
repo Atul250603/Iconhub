@@ -1,5 +1,5 @@
 import { Slider } from "@/components/ui/slider";
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import CustomColorPicker from "./ColorPicker";
 import { useColorPicker } from "react-best-gradient-color-picker";
 import type { SvgConfig } from "@/types";
@@ -9,8 +9,11 @@ import { defaultSvgConfig } from "@/constants";
 import { useDebouncedValue } from "@/hooks/useDebouncedValue";
 import ResetButton from "./ResetButton";
 import { motion } from "motion/react";
+import usePresets from "@/hooks/usePresets";
 
 export default function BasicIconConfig({ svgConfig, setSvgConfig }: { svgConfig: SvgConfig, setSvgConfig: React.Dispatch<React.SetStateAction<SvgConfig>> }) {
+  const { selectedPreset } = usePresets();
+
   const [strokeWidth, setStrokeWidth] = useState<number>(svgConfig.icon.strokeWidth);
   const [strokeColor, setStrokeColor] = useState<string>(svgConfig.icon.stroke.value);
   const [fillColor, setFillColor] = useState<string>(svgConfig.icon.fill.value);
@@ -47,6 +50,7 @@ export default function BasicIconConfig({ svgConfig, setSvgConfig }: { svgConfig
   }, [isStrokeGradient, strokeGradient?.gradientType, strokeGradient?.colors, strokeGradient?.degrees]);
 
   useEffect(() => {
+
     // compute next config based only on primitives + memoized objects
     setSvgConfig((prev: SvgConfig) => {
       const next: SvgConfig = {
@@ -78,7 +82,7 @@ export default function BasicIconConfig({ svgConfig, setSvgConfig }: { svgConfig
     strokeColor,
     strokeGradObj,
     strokeWidth,
-    size,
+    size
   ]);
 
   const differsFromDefault = useMemo(() => {
@@ -93,6 +97,20 @@ export default function BasicIconConfig({ svgConfig, setSvgConfig }: { svgConfig
     setStrokeWidth(defaultSvgConfig.icon.strokeWidth);
     setSize(defaultSvgConfig.size);
   }, []);
+
+
+  
+  // sync the svg config with the preset when the selected preset changes
+  // changing the state values will trigger a re-render and the useEffect will be called again and it will update the svg config with the new values
+
+  useEffect(() => {
+    if (!selectedPreset) return;
+    setStrokeColor(selectedPreset.config.icon.stroke.value);
+    setFillColor(selectedPreset.config.icon.fill.value);
+    setStrokeWidth(selectedPreset.config.icon.strokeWidth);
+    setSize(selectedPreset.config.size);
+
+  }, [selectedPreset?.id]);
 
   return (
     <motion.div

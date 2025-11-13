@@ -1,5 +1,5 @@
 import { Slider } from "@/components/ui/slider";
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import CustomColorPicker from "./ColorPicker";
 import { useColorPicker } from "react-best-gradient-color-picker";
 import type { SvgConfig, ViewBoxDimensions } from "@/types";
@@ -9,8 +9,11 @@ import { defaultSvgConfig } from "@/constants";
 import { useDebouncedValue } from "@/hooks/useDebouncedValue";
 import ResetButton from "./ResetButton";
 import { motion } from "motion/react";
+import usePresets from "@/hooks/usePresets";
 
 export default function BackgroundConfig({ svgConfig, setSvgConfig, viewBoxDimensions }: { svgConfig: SvgConfig, setSvgConfig: React.Dispatch<React.SetStateAction<SvgConfig>>, viewBoxDimensions: ViewBoxDimensions }) {
+  const { selectedPreset } = usePresets();
+
   const [strokeWidth, setStrokeWidth] = useState<number>(svgConfig.background.strokeWidth);
   const [strokeColor, setStrokeColor] = useState<string>(svgConfig.background.stroke.value);
   const [fillColor, setFillColor] = useState<string>(svgConfig.background.fill.value);
@@ -92,6 +95,19 @@ export default function BackgroundConfig({ svgConfig, setSvgConfig, viewBoxDimen
     setStrokeWidth(defaultSvgConfig.background.strokeWidth);
     setBorderRadius(defaultSvgConfig.background.rx);
   }, []);
+
+
+// sync the svg config with the preset when the selected preset changes
+// changing the state values will trigger a re-render and the useEffect will be called again and it will update the svg config with the new values
+  useEffect(() => {
+    if (!selectedPreset) return;
+
+    setStrokeColor(selectedPreset.config.background.stroke.value);
+    setFillColor(selectedPreset.config.background.fill.value);
+    setStrokeWidth(selectedPreset.config.background.strokeWidth);
+    setBorderRadius(selectedPreset.config.background.rx);
+
+  }, [selectedPreset?.id]);
 
   return (
     <motion.div

@@ -11,7 +11,7 @@ import HighlightSelectedElement from "./HighlightSelectedElement";
 import ResetButton from "./ResetButton";
 import { motion } from "motion/react";
 
-export default function IconElementConfig({ svgConfig, setSvgConfig, selectedShapeId }: { svgConfig: SvgConfig, setSvgConfig: React.Dispatch<React.SetStateAction<SvgConfig>>, selectedShapeId: string }) {
+export default function IconElementConfig({ svgConfig, setSvgConfig, selectedShapeId }: { svgConfig: SvgConfig, setSvgConfig : React.Dispatch<React.SetStateAction<SvgConfig>>, selectedShapeId: string }) {
 
   const [strokeColor, setStrokeColor] = useState<string>(svgConfig.shapes[selectedShapeId]?.stroke?.value ?? svgConfig.icon.stroke.value);
   const [fillColor, setFillColor] = useState<string>(svgConfig.shapes[selectedShapeId]?.fill?.value ?? svgConfig.icon.fill.value);
@@ -134,8 +134,7 @@ export default function IconElementConfig({ svgConfig, setSvgConfig, selectedSha
     strokeGradObj,
     strokeWidth,
     selectedShapeId,
-    svgConfig.icon,
-    hasUserInteracted.current,
+    svgConfig.icon
   ]);
 
   // Show the reset button if there is a shape override for the selectedShapeId

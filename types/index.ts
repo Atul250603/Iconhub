@@ -56,7 +56,12 @@ export interface ViewBoxDimensions {
   height: number;
 }
 
-export interface FeedbackFlagsAtom {
-  hasSubmitted: boolean;
-  lastFeedbackDate: string | null;
+export type PresetConfig = Omit<SvgConfig, 'shapes'>;
+
+export interface Preset {
+  id: string;
+  name: string;
+  config: PresetConfig;
+  version: number;
+  updatedAt: number;
 }

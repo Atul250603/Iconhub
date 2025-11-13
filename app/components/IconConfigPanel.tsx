@@ -1,18 +1,15 @@
+
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Settings } from "lucide-react";
 import BackgroundConfig from "./BackgroundConfig";
-import type { SvgConfig, ViewBoxDimensions } from "@/types";
+import type {SvgConfig, ViewBoxDimensions } from "@/types";
 import BasicIconConfig from "./BasicIconConfig";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import useActiveTab from "@/hooks/useActiveTab";
 import IconElementConfig from "./IconElementConfig";
-import { isEqual } from "lodash-es";
-import { defaultSvgConfig } from "@/constants";
-import { useDebouncedValue } from "@/hooks/useDebouncedValue";
-import ResetButton from "./ResetButton";
+import Preset from "./Preset";
 
 export default function IconConfig({ svgConfig, setSvgConfig, viewBoxDimensions, selectedShapeId }: { svgConfig: SvgConfig, setSvgConfig: React.Dispatch<React.SetStateAction<SvgConfig>>, viewBoxDimensions: ViewBoxDimensions, selectedShapeId: string | null }) {
   const [activeTab, setActiveTab] = useActiveTab(selectedShapeId) as [string, React.Dispatch<React.SetStateAction<string>>];
+
 
   return (
     <div className="h-full border">
@@ -23,6 +20,10 @@ export default function IconConfig({ svgConfig, setSvgConfig, viewBoxDimensions,
         <div className="text-sm text-muted-foreground mt-2">
           Customize your background and icon settings
         </div>
+      </div>
+
+      <div className="flex justify-end px-4 pt-4">
+        <Preset svgConfig={svgConfig} setSvgConfig={setSvgConfig} />
       </div>
 
       <div className="p-4">

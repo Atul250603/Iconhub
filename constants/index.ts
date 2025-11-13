@@ -1,5 +1,6 @@
 import type { SvgConfig } from "@/types";
 
+// default svg config for the icon canvas
 export const defaultSvgConfig: SvgConfig = {
   size: 200,
   background: {
@@ -33,13 +34,14 @@ export const defaultSvgConfig: SvgConfig = {
   shapes: {},
 };
 
+// ids for the icon canvas and the svg element
 export const myID = 'iconhub'
 export const canvasID = `${myID}-canvas` as const
-export const localStorageKeys = {
-  submitted: "hasSubmittedFeedback",
-  lastFeedbackDate: "lastFeedbackDate"
-}
 
+// version for the preset
+export const presetVersion = 1;
+
+// color presets for the color picker
 export const colorPresets = [
   'rgba(1,1,1, 0)',
   'rgba(128,128,128, 1)',

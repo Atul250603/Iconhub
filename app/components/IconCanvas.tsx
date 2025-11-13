@@ -26,6 +26,11 @@ export default function IconPage({ svgContent, icon }: { svgContent: string, ico
     trackIconViewed(icon)
   }, [icon])
 
+  // Reset the svg config when the icon changes
+  useEffect(() => {
+    setSvgConfig(defaultSvgConfig);
+  }, [icon]);
+
   // Set the changes of the config to the svg element
   useEffect(() => {
     try {
