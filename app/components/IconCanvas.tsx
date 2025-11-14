@@ -10,6 +10,8 @@ import { Button } from '@/components/ui/button';
 import Link from 'next/link';
 import { ArrowLeftIcon } from 'lucide-react';
 import { trackIconViewed } from '@/utils/analytics';
+import { useSetAtom } from 'jotai';
+import { selectedPresetAtom } from '@/store/preset';
 
 export default function IconPage({ svgContent, icon }: { svgContent: string, icon: string }) {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -17,6 +19,7 @@ export default function IconPage({ svgContent, icon }: { svgContent: string, ico
   const [selectedShapeId, setSelectedShapeId] = useState<string | null>(null);
   const [viewBoxDimensions, setViewBoxDimensions] = useState<ViewBoxDimensions>({ width: 24, height: 24 });
   const [svgConfig, setSvgConfig] = useState<SvgConfig>(defaultSvgConfig);
+  const setSelectedPreset = useSetAtom(selectedPresetAtom)
 
 
   useEffect(() => setMounted(true), []);
@@ -26,10 +29,12 @@ export default function IconPage({ svgContent, icon }: { svgContent: string, ico
     trackIconViewed(icon)
   }, [icon])
 
-  // Reset the svg config when the icon changes
+  // Reset the selected preset when the icon canvas is unmounted
   useEffect(() => {
-    setSvgConfig(defaultSvgConfig);
-  }, [icon]);
+    return () => {
+      setSelectedPreset(null);
+    }
+  }, []);
 
   // Set the changes of the config to the svg element
   useEffect(() => {
@@ -67,7 +72,7 @@ export default function IconPage({ svgContent, icon }: { svgContent: string, ico
         <div ref={containerRef} id={canvasID} />
       </div>
       <div className='lg:w-[30%] md:w-1/2 w-full md:h-full min-h-[50vh]'>
-        <IconConfigPanel svgConfig={svgConfig} setSvgConfig={setSvgConfig} viewBoxDimensions={viewBoxDimensions} selectedShapeId={selectedShapeId} />
+        <IconConfigPanel key={icon} svgConfig={svgConfig} setSvgConfig={setSvgConfig} viewBoxDimensions={viewBoxDimensions} selectedShapeId={selectedShapeId} />
       </div>
     </div>
   )
