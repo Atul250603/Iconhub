@@ -5,7 +5,18 @@ import IconCanvas from '@/app/components/IconCanvas';
 import { handleError } from '@/utils/logs/error';
 import { redirect } from 'next/navigation';
 import { getIconById } from '@/utils/icon-lookup';
+import iconsIndex from '@/utils/icons-index.json';
 
+// Generate static params for all icons to pre-render the pages
+export async function generateStaticParams() {
+  const PRE_GENERATE_COUNT = 1000;
+  return iconsIndex.slice(0, PRE_GENERATE_COUNT).map((icon) => ({
+    id: icon.id
+  }));
+}
+
+export const dynamicParams = true; // generate the pages on demand for those that are not pre-rendered (i.e after the first 1000 icons)
+export const revalidate = false; // cache until we deploy the new version, its stored in the full route cache in next.js and it gets invalidated when we deploy the new version
 
 export default async function IconPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
