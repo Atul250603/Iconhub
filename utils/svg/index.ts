@@ -260,7 +260,7 @@ export const getViewBoxDimensions = (svgEl: SVGElement): ViewBoxDimensions => {
   }
 }
 
-export const addShapeSelection = (svgEl: SVGElement, setSelectedShapeId: React.Dispatch<React.SetStateAction<string | null>>) => {
+export const addShapeSelection = (svgEl: SVGElement, setSelectedShapeId: React.Dispatch<React.SetStateAction<string | null>>, myID: string) => {
   try {
     if (!svgEl) {
       return handleError("addShapeSelection: No SVG element provided", undefined);
@@ -268,6 +268,9 @@ export const addShapeSelection = (svgEl: SVGElement, setSelectedShapeId: React.D
     const shapeElements = svgEl.querySelectorAll('path, rect, circle, ellipse, polygon, polyline, line');
     shapeElements.forEach((shape, index) => {
       try {
+        // skip the background rect - it should not be selectable
+        if (shape.id === `${myID}-bg-rect`) return;
+
         // Give each shape a unique ID if not already present
         if (!shape.id) shape.id = `shape-${index}`;
         const onClick = (e: MouseEvent) => {

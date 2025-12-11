@@ -12,6 +12,8 @@ import { ArrowLeftIcon } from 'lucide-react';
 import { trackIconViewed } from '@/utils/analytics';
 import { useSetAtom } from 'jotai';
 import { selectedPresetAtom } from '@/store/preset';
+import usePresets from '@/hooks/usePresets';
+import { isEqual } from 'lodash-es';
 
 export default function IconPage({ svgContent, icon }: { svgContent: string, icon: string }) {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -20,9 +22,26 @@ export default function IconPage({ svgContent, icon }: { svgContent: string, ico
   const [viewBoxDimensions, setViewBoxDimensions] = useState<ViewBoxDimensions>({ width: 24, height: 24 });
   const [svgConfig, setSvgConfig] = useState<SvgConfig>(defaultSvgConfig);
   const setSelectedPreset = useSetAtom(selectedPresetAtom)
+  const { selectedPreset } = usePresets();
 
 
   useEffect(() => setMounted(true), []);
+
+  // when the selected preset changes, set the svg config to the selected preset config
+  useEffect(() => {
+    if (!selectedPreset) return;
+
+    setSvgConfig((prev) => {
+      const next = {
+        ...prev,
+        ...selectedPreset.config,
+        shapes: prev.shapes // preserve the shape overrides as preset does not contain shapes
+      }
+
+      // return the previous config if the next config is the same as the previous config
+      return isEqual(prev, next) ? prev : next;
+    })
+  }, [selectedPreset])
 
   // Track icon views when the icon page is mounted
   useEffect(() => {
@@ -47,7 +66,7 @@ export default function IconPage({ svgContent, icon }: { svgContent: string, ico
       ensureBackgroundRect(svgEl, myID, svgConfig);
       setBaseIcon(svgEl, myID, svgConfig, viewBoxDimensions);
       setBackgroundRect(svgEl, myID, svgConfig, viewBoxDimensions);
-      addShapeSelection(svgEl, setSelectedShapeId);
+      addShapeSelection(svgEl, setSelectedShapeId, myID);
       setAllShapeStyles(svgEl, myID, svgConfig, viewBoxDimensions);
     } catch (err) {
       handleError<undefined>(`Error setting the changes of the config to the svg element: ${err instanceof Error ? err.message : String(err)}`, undefined);

@@ -14,6 +14,9 @@ import usePresets from "@/hooks/usePresets";
 export default function BasicIconConfig({ svgConfig, setSvgConfig }: { svgConfig: SvgConfig, setSvgConfig: React.Dispatch<React.SetStateAction<SvgConfig>> }) {
   const { selectedPreset } = usePresets();
 
+  // we need to only set the icon values in the svg config when the user sets them
+  const hasUserInteracted = useRef(false);
+
   const [strokeWidth, setStrokeWidth] = useState<number>(svgConfig.icon.strokeWidth);
   const [strokeColor, setStrokeColor] = useState<string>(svgConfig.icon.stroke.value);
   const [fillColor, setFillColor] = useState<string>(svgConfig.icon.fill.value);
@@ -49,7 +52,39 @@ export default function BasicIconConfig({ svgConfig, setSvgConfig }: { svgConfig
     };
   }, [isStrokeGradient, strokeGradient?.gradientType, strokeGradient?.colors, strokeGradient?.degrees]);
 
+
+  const handleStrokeColorChange = (color: string) => {
+    hasUserInteracted.current = true;
+    setStrokeColor(color);
+  };
+
+  const handleFillColorChange = (color: string) => {
+    hasUserInteracted.current = true;
+    setFillColor(color);
+  };
+
+  const handleStrokeWidthChange = (width: number) => {
+    hasUserInteracted.current = true;
+    setStrokeWidth(width);
+  };
+
+  const handleSizeChange = (size: number) => {
+    hasUserInteracted.current = true;
+    setSize(size);
+  };
+
+
+  // when the svg config for the icon changes, reset the state values to the new values and the hasUserInteracted flag to false
   useEffect(() => {
+    hasUserInteracted.current = false;
+    setStrokeColor(svgConfig.icon.stroke.value);
+    setFillColor(svgConfig.icon.fill.value);
+    setStrokeWidth(svgConfig.icon.strokeWidth);
+    setSize(svgConfig.size);
+  }, [svgConfig.icon]);
+
+  useEffect(() => {
+    if (!hasUserInteracted.current) return;
 
     // compute next config based only on primitives + memoized objects
     setSvgConfig((prev: SvgConfig) => {
@@ -92,25 +127,11 @@ export default function BasicIconConfig({ svgConfig, setSvgConfig }: { svgConfig
   const showResetButton = useDebouncedValue(differsFromDefault, 200);
 
   const handleReset = useCallback(() => {
-    setStrokeColor(defaultSvgConfig.icon.stroke.value);
-    setFillColor(defaultSvgConfig.icon.fill.value);
-    setStrokeWidth(defaultSvgConfig.icon.strokeWidth);
-    setSize(defaultSvgConfig.size);
+    handleStrokeColorChange(defaultSvgConfig.icon.stroke.value);
+    handleFillColorChange(defaultSvgConfig.icon.fill.value);
+    handleStrokeWidthChange(defaultSvgConfig.icon.strokeWidth);
+    handleSizeChange(defaultSvgConfig.size);
   }, []);
-
-
-  
-  // sync the svg config with the preset when the selected preset changes
-  // changing the state values will trigger a re-render and the useEffect will be called again and it will update the svg config with the new values
-
-  useEffect(() => {
-    if (!selectedPreset) return;
-    setStrokeColor(selectedPreset.config.icon.stroke.value);
-    setFillColor(selectedPreset.config.icon.fill.value);
-    setStrokeWidth(selectedPreset.config.icon.strokeWidth);
-    setSize(selectedPreset.config.size);
-
-  }, [selectedPreset?.id]);
 
   return (
     <motion.div
@@ -138,7 +159,7 @@ export default function BasicIconConfig({ svgConfig, setSvgConfig }: { svgConfig
               max={600}
               step={1}
               onValueChange={(value) => {
-                setSize(value[0]);
+                handleSizeChange(value[0]);
               }}
             />
         </div>
@@ -147,7 +168,7 @@ export default function BasicIconConfig({ svgConfig, setSvgConfig }: { svgConfig
         <div className="flex items-center justify-between">
           <FieldLabel label="Stroke Color" description="Outline color of the icon. Supports solid colors and gradients." />
           <div>
-            <CustomColorPicker color={strokeColor} setColor={setStrokeColor} />          
+            <CustomColorPicker color={strokeColor} setColor={handleStrokeColorChange} />          
           </div>
         </div>
       </div>
@@ -165,7 +186,7 @@ export default function BasicIconConfig({ svgConfig, setSvgConfig }: { svgConfig
             max={2.5}
             step={0.1}
             onValueChange={(value) => {
-              setStrokeWidth(value[0]);
+              handleStrokeWidthChange(value[0]);
             }}
           />
         </div>
@@ -174,7 +195,7 @@ export default function BasicIconConfig({ svgConfig, setSvgConfig }: { svgConfig
         <div className="flex items-center justify-between">
           <FieldLabel label="Fill Color" description="Interior color of the icon shapes. Supports solid colors and gradients." />
           <div>
-            <CustomColorPicker color={fillColor} setColor={setFillColor} />          
+            <CustomColorPicker color={fillColor} setColor={handleFillColorChange} />          
           </div>
         </div>
       </div>

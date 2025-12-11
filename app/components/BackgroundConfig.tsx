@@ -12,7 +12,9 @@ import { motion } from "motion/react";
 import usePresets from "@/hooks/usePresets";
 
 export default function BackgroundConfig({ svgConfig, setSvgConfig, viewBoxDimensions }: { svgConfig: SvgConfig, setSvgConfig: React.Dispatch<React.SetStateAction<SvgConfig>>, viewBoxDimensions: ViewBoxDimensions }) {
-  const { selectedPreset } = usePresets();
+
+  // we need to only set the background values in the svg config when the user sets them
+  const hasUserInteracted = useRef(false);
 
   const [strokeWidth, setStrokeWidth] = useState<number>(svgConfig.background.strokeWidth);
   const [strokeColor, setStrokeColor] = useState<string>(svgConfig.background.stroke.value);
@@ -48,7 +50,39 @@ export default function BackgroundConfig({ svgConfig, setSvgConfig, viewBoxDimen
     };
   }, [isStrokeGradient, strokeGradient?.gradientType, strokeGradient?.colors, strokeGradient?.degrees]);
 
+
+  const handleStrokeColorChange = (color: string) => {
+    hasUserInteracted.current = true;
+    setStrokeColor(color);
+  };
+
+  const handleFillColorChange = (color: string) => {
+    hasUserInteracted.current = true;
+    setFillColor(color);
+  };
+
+  const handleStrokeWidthChange = (width: number) => {
+    hasUserInteracted.current = true;
+    setStrokeWidth(width);
+  };
+
+  const handleBorderRadiusChange = (radius: number) => {
+    hasUserInteracted.current = true;
+    setBorderRadius(radius);
+  };
+
+  // when the svg config for the background changes, reset the state values to the new values and the hasUserInteracted flag to false
   useEffect(() => {
+    hasUserInteracted.current = false;
+    setStrokeColor(svgConfig.background.stroke.value);
+    setFillColor(svgConfig.background.fill.value);
+    setStrokeWidth(svgConfig.background.strokeWidth);
+    setBorderRadius(svgConfig.background.rx);
+  }, [svgConfig.background]);
+
+  useEffect(() => {
+    if (!hasUserInteracted.current) return;
+
     // compute next config based only on primitives + memoized objects
     setSvgConfig((prev: SvgConfig) => {
       const next: SvgConfig = {
@@ -90,24 +124,11 @@ export default function BackgroundConfig({ svgConfig, setSvgConfig, viewBoxDimen
   const showResetButton = useDebouncedValue(differsFromDefault, 200);
 
   const handleReset = useCallback(() => {
-    setStrokeColor(defaultSvgConfig.background.stroke.value);
-    setFillColor(defaultSvgConfig.background.fill.value);
-    setStrokeWidth(defaultSvgConfig.background.strokeWidth);
-    setBorderRadius(defaultSvgConfig.background.rx);
+    handleStrokeColorChange(defaultSvgConfig.background.stroke.value);
+    handleFillColorChange(defaultSvgConfig.background.fill.value);
+    handleStrokeWidthChange(defaultSvgConfig.background.strokeWidth);
+    handleBorderRadiusChange(defaultSvgConfig.background.rx);
   }, []);
-
-
-// sync the svg config with the preset when the selected preset changes
-// changing the state values will trigger a re-render and the useEffect will be called again and it will update the svg config with the new values
-  useEffect(() => {
-    if (!selectedPreset) return;
-
-    setStrokeColor(selectedPreset.config.background.stroke.value);
-    setFillColor(selectedPreset.config.background.fill.value);
-    setStrokeWidth(selectedPreset.config.background.strokeWidth);
-    setBorderRadius(selectedPreset.config.background.rx);
-
-  }, [selectedPreset?.id]);
 
   return (
     <motion.div
@@ -125,7 +146,7 @@ export default function BackgroundConfig({ svgConfig, setSvgConfig, viewBoxDimen
         <div className="flex items-center justify-between">
           <FieldLabel label="Stroke Color" description="Border color around the background. Supports solid colors and gradients." />
           <div>
-            <CustomColorPicker color={strokeColor} setColor={setStrokeColor} />          
+            <CustomColorPicker color={strokeColor} setColor={handleStrokeColorChange} />          
           </div>
         </div>
       </div>
@@ -143,7 +164,7 @@ export default function BackgroundConfig({ svgConfig, setSvgConfig, viewBoxDimen
             max={2.5}
             step={0.1}
             onValueChange={(value) => {
-              setStrokeWidth(value[0]);
+              handleStrokeWidthChange(value[0]);
             }}
           />
         </div>
@@ -162,7 +183,7 @@ export default function BackgroundConfig({ svgConfig, setSvgConfig, viewBoxDimen
             max={Math.max(viewBoxDimensions.width / 2, viewBoxDimensions.height / 2)}
             step={1}
             onValueChange={(value) => {
-              setBorderRadius(value[0]);
+              handleBorderRadiusChange(value[0]);
             }}
           />
         </div>
@@ -171,7 +192,7 @@ export default function BackgroundConfig({ svgConfig, setSvgConfig, viewBoxDimen
         <div className="flex items-center justify-between">
           <FieldLabel label="Fill Color" description="Background color inside the shape. Supports solid colors and gradients." />
           <div>
-            <CustomColorPicker color={fillColor} setColor={setFillColor} />          
+            <CustomColorPicker color={fillColor} setColor={handleFillColorChange} />          
           </div>
         </div>
       </div>

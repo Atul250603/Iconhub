@@ -33,6 +33,7 @@ export default function usePresets() {
       const preset = await addPreset(name, presetConfig);
       if (preset) {
         setPresets((prev) => [...prev, preset]);
+        setSelectedPreset(preset);
         toast.success(`Preset saved successfully`);
       } else {
         toast.error(`Failed to save preset`);
