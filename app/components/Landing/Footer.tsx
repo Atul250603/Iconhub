@@ -41,7 +41,7 @@ export default function Footer() {
             </div>
             <div className="flex flex-col">
                 <Link href="https://toastrr.vercel.app/" target="_blank" className="text-center md:text-left">Toastrr</Link>
-                <Link href="https://quizzify.site" target="_blank" className="text-center md:text-left">Quizzify</Link>
+                <Link href="https://quizzify-green.vercel.app/" target="_blank" className="text-center md:text-left">Quizzify</Link>
             </div>
         </div>
       </div>
